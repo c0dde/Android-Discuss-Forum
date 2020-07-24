@@ -1,0 +1,4201 @@
+<resources>
+    <string name="app_name">discussion</string>
+    <string name="login_button">Sign In</string>
+    <string name="register_button">Register</string>
+    <string-array name="UnitID">
+        <item>ACA100</item>
+        <item>ACA101</item>
+        <item>ACC100</item>
+        <item>ACD103</item>
+        <item>ACD104</item>
+        <item>ACF103</item>
+        <item>ACF104</item>
+        <item>ACF106</item>
+        <item>ACF107</item>
+        <item>ACG103</item>
+        <item>ACI101</item>
+        <item>ACI102</item>
+        <item>ACP103</item>
+        <item>ACP109</item>
+        <item>ACR101</item>
+        <item>ACR102</item>
+        <item>ACV101</item>
+        <item>ACV115</item>
+        <item>ADA101</item>
+        <item>ADA102</item>
+        <item>ADD101</item>
+        <item>ADD102</item>
+        <item>ADD103</item>
+        <item>ADD104</item>
+        <item>ADV101</item>
+        <item>ADV102</item>
+        <item>AGS101</item>
+        <item>AGS102</item>
+        <item>AIA105</item>
+        <item>AIB151</item>
+        <item>AIB152</item>
+        <item>AIC181</item>
+        <item>AIC182</item>
+        <item>AIE153</item>
+        <item>AIE154</item>
+        <item>AIF142</item>
+        <item>AIF146</item>
+        <item>AIG103</item>
+        <item>AIH107</item>
+        <item>AIH108</item>
+        <item>AIP107</item>
+        <item>AIP116</item>
+        <item>AIR101</item>
+        <item>AIR102</item>
+        <item>AIS101</item>
+        <item>AIX117</item>
+        <item>AIX160</item>
+        <item>ALA101</item>
+        <item>ALA102</item>
+        <item>ALC104</item>
+        <item>ALJ111</item>
+        <item>ALJ112</item>
+        <item>ALL101</item>
+        <item>ALL102</item>
+        <item>ALL153</item>
+        <item>ALL154</item>
+        <item>ALM101</item>
+        <item>ALM102</item>
+        <item>ALR103</item>
+        <item>ALR104</item>
+        <item>ALS100</item>
+        <item>ALS150</item>
+        <item>ALW101</item>
+        <item>ALW102</item>
+        <item>APE101</item>
+        <item>ASC101</item>
+        <item>ASC102</item>
+        <item>ASP109</item>
+        <item>ASP129</item>
+        <item>ASR100</item>
+        <item>ASS101</item>
+        <item>ASS102</item>
+        <item>EAD110</item>
+        <item>EAD111</item>
+        <item>EAD112</item>
+        <item>EAD113</item>
+        <item>ECA100</item>
+        <item>ECE110</item>
+        <item>ECE111</item>
+        <item>ECE112</item>
+        <item>ECE116</item>
+        <item>ECE120</item>
+        <item>ECE130</item>
+        <item>ECE140</item>
+        <item>ECP128</item>
+        <item>EDU101</item>
+        <item>EDU102</item>
+        <item>EEH101</item>
+        <item>EEH102</item>
+        <item>EEH103</item>
+        <item>EEH116</item>
+        <item>ELL101</item>
+        <item>ELL102</item>
+        <item>EPP101</item>
+        <item>EPP102</item>
+        <item>ETP101</item>
+        <item>ETP102</item>
+        <item>HBS107</item>
+        <item>HBS108</item>
+        <item>HBS109</item>
+        <item>HBS110</item>
+        <item>HDS101</item>
+        <item>HDS106</item>
+        <item>HMI101</item>
+        <item>HMI102</item>
+        <item>HMI103</item>
+        <item>HMI104</item>
+        <item>HMI105</item>
+        <item>HMM101</item>
+        <item>HMM102</item>
+        <item>HMM103</item>
+        <item>HMM105</item>
+        <item>HMO101</item>
+        <item>HMO102</item>
+        <item>HMO103</item>
+        <item>HMO104</item>
+        <item>HMO105</item>
+        <item>HNM101</item>
+        <item>HNM102</item>
+        <item>HNN108</item>
+        <item>HNN112</item>
+        <item>HNN114</item>
+        <item>HNN120</item>
+        <item>HNN122</item>
+        <item>HPS104</item>
+        <item>HPS105</item>
+        <item>HPS111</item>
+        <item>HPS121</item>
+        <item>HSE102</item>
+        <item>HSE103</item>
+        <item>HSE104</item>
+        <item>HSE105</item>
+        <item>HSE110</item>
+        <item>HSE111</item>
+        <item>HSE112</item>
+        <item>HSE113</item>
+        <item>HSH102</item>
+        <item>HSH103</item>
+        <item>HSH105</item>
+        <item>HSH112</item>
+        <item>HSH113</item>
+        <item>HSN101</item>
+        <item>HSN104</item>
+        <item>HSN105</item>
+        <item>HSN106</item>
+        <item>HSN107</item>
+        <item>HSO102</item>
+        <item>HSO104</item>
+        <item>HSW101</item>
+        <item>HSW111</item>
+        <item>HSW118</item>
+        <item>IND101</item>
+        <item>MAA103</item>
+        <item>MAA104</item>
+        <item>MAE101</item>
+        <item>MAF101</item>
+        <item>MIS171</item>
+        <item>MLC101</item>
+        <item>MLL110</item>
+        <item>MLL111</item>
+        <item>MLL113</item>
+        <item>MLL114</item>
+        <item>MLL117</item>
+        <item>MMK101</item>
+        <item>MMM111</item>
+        <item>MMM132</item>
+        <item>MMP111</item>
+        <item>MMP122</item>
+        <item>MMS100</item>
+        <item>MWL101</item>
+        <item>SEB101</item>
+        <item>SEJ101</item>
+        <item>SEJ102</item>
+        <item>SEJ103</item>
+        <item>SET111</item>
+        <item>SEV101</item>
+        <item>SIT102</item>
+        <item>SIT103</item>
+        <item>SIT105</item>
+        <item>SIT106</item>
+        <item>SIT110</item>
+        <item>SIT111</item>
+        <item>SIT112</item>
+        <item>SIT113</item>
+        <item>SIT114</item>
+        <item>SIT120</item>
+        <item>SIT122</item>
+        <item>SIT123</item>
+        <item>SIT124</item>
+        <item>SIT151</item>
+        <item>SIT162</item>
+        <item>SIT172</item>
+        <item>SIT176</item>
+        <item>SIT182</item>
+        <item>SIT183</item>
+        <item>SIT190</item>
+        <item>SIT191</item>
+        <item>SIT192</item>
+        <item>SIT194</item>
+        <item>SIT199</item>
+        <item>SLE101</item>
+        <item>SLE102</item>
+        <item>SLE103</item>
+        <item>SLE104</item>
+        <item>SLE105</item>
+        <item>SLE107</item>
+        <item>SLE108</item>
+        <item>SLE111</item>
+        <item>SLE112</item>
+        <item>SLE114</item>
+        <item>SLE115</item>
+        <item>SLE121</item>
+        <item>SLE123</item>
+        <item>SLE132</item>
+        <item>SLE133</item>
+        <item>SLE134</item>
+        <item>SLE136</item>
+        <item>SLE151</item>
+        <item>SLE155</item>
+        <item>SLE163</item>
+        <item>SRA143</item>
+        <item>SRC163</item>
+        <item>SRC164</item>
+        <item>SRD163</item>
+        <item>SRD164</item>
+        <item>SRE170</item>
+        <item>SRM161</item>
+        <item>SRM165</item>
+        <item>SRM181</item>
+        <item>SRT112</item>
+        <item>SRT141</item>
+        <item>SRT151</item>
+        <item>SRT153</item>
+        <item>SRT159</item>
+        <item>ACA201</item>
+        <item>ACA202</item>
+        <item>ACA203</item>
+        <item>ACA210</item>
+        <item>ACA211</item>
+        <item>ACC200</item>
+        <item>ACC213</item>
+        <item>ACD207</item>
+        <item>ACD208</item>
+        <item>ACF201</item>
+        <item>ACF202</item>
+        <item>ACF205</item>
+        <item>ACF206</item>
+        <item>ACF207</item>
+        <item>ACF208</item>
+        <item>ACF209</item>
+        <item>ACF210</item>
+        <item>ACF211</item>
+        <item>ACF212</item>
+        <item>ACI201</item>
+        <item>ACI202</item>
+        <item>ACI203</item>
+        <item>ACI204</item>
+        <item>ACI205</item>
+        <item>ACP205</item>
+        <item>ACP206</item>
+        <item>ACP207</item>
+        <item>ACP208</item>
+        <item>ACP210</item>
+        <item>ACP281</item>
+        <item>ACR201</item>
+        <item>ACR202</item>
+        <item>ACR203</item>
+        <item>ACR204</item>
+        <item>ACR206</item>
+        <item>ACR211</item>
+        <item>ACR212</item>
+        <item>ACV205</item>
+        <item>ACV206</item>
+        <item>ACV207</item>
+        <item>ACV210</item>
+        <item>ACV212</item>
+        <item>ACV213</item>
+        <item>ACV214</item>
+        <item>ADA201</item>
+        <item>ADA202</item>
+        <item>ADA203</item>
+        <item>ADA204</item>
+        <item>ADD201</item>
+        <item>ADD202</item>
+        <item>ADD203</item>
+        <item>ADT201</item>
+        <item>ADV201</item>
+        <item>ADV202</item>
+        <item>ADV203</item>
+        <item>AGS200</item>
+        <item>AIB251</item>
+        <item>AIB252</item>
+        <item>AIC281</item>
+        <item>AIC282</item>
+        <item>AIC283</item>
+        <item>AIC284</item>
+        <item>AIE255</item>
+        <item>AIF241</item>
+        <item>AIF242</item>
+        <item>AIG211</item>
+        <item>AIH205</item>
+        <item>AIH238</item>
+        <item>AIH240</item>
+        <item>AIH264</item>
+        <item>AIH267</item>
+        <item>AIH276</item>
+        <item>AIH288</item>
+        <item>AIP208</item>
+        <item>AIP209</item>
+        <item>AIP211</item>
+        <item>AIP230</item>
+        <item>AIP243</item>
+        <item>AIP245</item>
+        <item>AIP247</item>
+        <item>AIR200</item>
+        <item>AIR202</item>
+        <item>AIR203</item>
+        <item>AIR204</item>
+        <item>AIR242</item>
+        <item>AIR292</item>
+        <item>AIS201</item>
+        <item>AIS203</item>
+        <item>AIS204</item>
+        <item>AIX290</item>
+        <item>ALA201</item>
+        <item>ALA202</item>
+        <item>ALA203</item>
+        <item>ALJ216</item>
+        <item>ALJ218</item>
+        <item>ALJ220</item>
+        <item>ALJ221</item>
+        <item>ALL202</item>
+        <item>ALL228</item>
+        <item>ALL230</item>
+        <item>ALL255</item>
+        <item>ALL256</item>
+        <item>ALL260</item>
+        <item>ALL275</item>
+        <item>ALM201</item>
+        <item>ALM202</item>
+        <item>ALM215</item>
+        <item>ALR210</item>
+        <item>ALR276</item>
+        <item>ALR279</item>
+        <item>ALS200</item>
+        <item>ALS225</item>
+        <item>ALS250</item>
+        <item>ALW205</item>
+        <item>ALW223</item>
+        <item>ALW225</item>
+        <item>ALW227</item>
+        <item>ALW242</item>
+        <item>ALW251</item>
+        <item>ALW252</item>
+        <item>APE201</item>
+        <item>APE202</item>
+        <item>ASC206</item>
+        <item>ASC210</item>
+        <item>ASC211</item>
+        <item>ASC233</item>
+        <item>ASC250</item>
+        <item>ASC287</item>
+        <item>ASP208</item>
+        <item>ASP210</item>
+        <item>ASP211</item>
+        <item>ASP214</item>
+        <item>ASP215</item>
+        <item>ASP216</item>
+        <item>ASP224</item>
+        <item>ASP227</item>
+        <item>ASP228</item>
+        <item>ASP263</item>
+        <item>ASR200</item>
+        <item>ASR205</item>
+        <item>ASR206</item>
+        <item>ASR207</item>
+        <item>ASR208</item>
+        <item>ASS203</item>
+        <item>ASS204</item>
+        <item>ASS205</item>
+        <item>ASS206</item>
+        <item>ASS233</item>
+        <item>ASS234</item>
+        <item>AST205</item>
+        <item>AST256</item>
+        <item>ECA210</item>
+        <item>ECE211</item>
+        <item>ECE212</item>
+        <item>ECE220</item>
+        <item>ECE230</item>
+        <item>ECE241</item>
+        <item>ECL210</item>
+        <item>ECP227</item>
+        <item>ECP228</item>
+        <item>EDU201</item>
+        <item>EDU202</item>
+        <item>EDU203</item>
+        <item>EEA211</item>
+        <item>EEH202</item>
+        <item>EEH203</item>
+        <item>EEH217</item>
+        <item>EEI202</item>
+        <item>EEO211</item>
+        <item>EES245</item>
+        <item>EPP203</item>
+        <item>EPP204</item>
+        <item>ESM211</item>
+        <item>ESM215</item>
+        <item>ETP200</item>
+        <item>HDS209</item>
+        <item>HDS210</item>
+        <item>HMI201</item>
+        <item>HMI202</item>
+        <item>HMI203</item>
+        <item>HMI204</item>
+        <item>HMI205</item>
+        <item>HMM201</item>
+        <item>HMM202</item>
+        <item>HMM203</item>
+        <item>HMM204</item>
+        <item>HMO201</item>
+        <item>HMO202</item>
+        <item>HMO203</item>
+        <item>HMO204</item>
+        <item>HNM201</item>
+        <item>HNM202</item>
+        <item>HNN207</item>
+        <item>HNN208</item>
+        <item>HNN210</item>
+        <item>HNN215</item>
+        <item>HNN216</item>
+        <item>HNN217</item>
+        <item>HNN222</item>
+        <item>HNN227</item>
+        <item>HPS201</item>
+        <item>HPS202</item>
+        <item>HPS203</item>
+        <item>HPS204</item>
+        <item>HPS206</item>
+        <item>HPS207</item>
+        <item>HPS209</item>
+        <item>HPS226</item>
+        <item>HPY210</item>
+        <item>HSE201</item>
+        <item>HSE202</item>
+        <item>HSE203</item>
+        <item>HSE204</item>
+        <item>HSE205</item>
+        <item>HSE208</item>
+        <item>HSE212</item>
+        <item>HSE213</item>
+        <item>HSH202</item>
+        <item>HSH205</item>
+        <item>HSH206</item>
+        <item>HSH207</item>
+        <item>HSH208</item>
+        <item>HSH211</item>
+        <item>HSH212</item>
+        <item>HSH216</item>
+        <item>HSH219</item>
+        <item>HSN202</item>
+        <item>HSN204</item>
+        <item>HSN206</item>
+        <item>HSN210</item>
+        <item>HSN211</item>
+        <item>HSN223</item>
+        <item>HSN227</item>
+        <item>HSO202</item>
+        <item>HSO205</item>
+        <item>HSO206</item>
+        <item>HSO207</item>
+        <item>HSO208</item>
+        <item>HSW201</item>
+        <item>HSW202</item>
+        <item>HSW212</item>
+        <item>HSW216</item>
+        <item>HSW219</item>
+        <item>HSW221</item>
+        <item>HSW235</item>
+        <item>IND201</item>
+        <item>MAA204</item>
+        <item>MAA215</item>
+        <item>MAA250</item>
+        <item>MAA255</item>
+        <item>MAA261</item>
+        <item>MAA262</item>
+        <item>MAA267</item>
+        <item>MAB242</item>
+        <item>MAB251</item>
+        <item>MAE201</item>
+        <item>MAE203</item>
+        <item>MAE213</item>
+        <item>MAE214</item>
+        <item>MAE233</item>
+        <item>MAE256</item>
+        <item>MAF202</item>
+        <item>MAF203</item>
+        <item>MIS201</item>
+        <item>MIS202</item>
+        <item>MIS203</item>
+        <item>MIS211</item>
+        <item>MIS231</item>
+        <item>MIS271</item>
+        <item>MIS272</item>
+        <item>MIS275</item>
+        <item>MLC203</item>
+        <item>MLC206</item>
+        <item>MLL211</item>
+        <item>MLL213</item>
+        <item>MLL215</item>
+        <item>MLL218</item>
+        <item>MLL225</item>
+        <item>MLL227</item>
+        <item>MLL228</item>
+        <item>MLL235</item>
+        <item>MLL244</item>
+        <item>MLL277</item>
+        <item>MLL282</item>
+        <item>MLT244</item>
+        <item>MLT266</item>
+        <item>MMH230</item>
+        <item>MMH231</item>
+        <item>MMH232</item>
+        <item>MMH250</item>
+        <item>MMK217</item>
+        <item>MMK251</item>
+        <item>MMK266</item>
+        <item>MMK280</item>
+        <item>MMK295</item>
+        <item>MMM211</item>
+        <item>MMM240</item>
+        <item>MMM241</item>
+        <item>MMM267</item>
+        <item>MMM276</item>
+        <item>MMM279</item>
+        <item>MMP211</item>
+        <item>MMP212</item>
+        <item>MMP213</item>
+        <item>MMP221</item>
+        <item>MMP223</item>
+        <item>MMS201</item>
+        <item>MMS202</item>
+        <item>MMT280</item>
+        <item>MWL205</item>
+        <item>SEE206</item>
+        <item>SEE210</item>
+        <item>SEE212</item>
+        <item>SEE213</item>
+        <item>SEE216</item>
+        <item>SEE222</item>
+        <item>SEJ201</item>
+        <item>SEM200</item>
+        <item>SEM202</item>
+        <item>SEM216</item>
+        <item>SEM218</item>
+        <item>SEP291</item>
+        <item>SER201</item>
+        <item>SER202</item>
+        <item>SER203</item>
+        <item>SET211</item>
+        <item>SEV200</item>
+        <item>SEV201</item>
+        <item>SEV210</item>
+        <item>SEV219</item>
+        <item>SEV254</item>
+        <item>SHD201</item>
+        <item>SIT202</item>
+        <item>SIT209</item>
+        <item>SIT210</item>
+        <item>SIT215</item>
+        <item>SIT216</item>
+        <item>SIT217</item>
+        <item>SIT221</item>
+        <item>SIT223</item>
+        <item>SIT232</item>
+        <item>SIT253</item>
+        <item>SIT254</item>
+        <item>SIT255</item>
+        <item>SIT264</item>
+        <item>SIT272</item>
+        <item>SIT277</item>
+        <item>SIT281</item>
+        <item>SIT282</item>
+        <item>SIT283</item>
+        <item>SIT284</item>
+        <item>SIT291</item>
+        <item>SIT292</item>
+        <item>SLE200</item>
+        <item>SLE201</item>
+        <item>SLE202</item>
+        <item>SLE203</item>
+        <item>SLE204</item>
+        <item>SLE205</item>
+        <item>SLE206</item>
+        <item>SLE207</item>
+        <item>SLE208</item>
+        <item>SLE209</item>
+        <item>SLE210</item>
+        <item>SLE211</item>
+        <item>SLE212</item>
+        <item>SLE213</item>
+        <item>SLE214</item>
+        <item>SLE215</item>
+        <item>SLE216</item>
+        <item>SLE217</item>
+        <item>SLE218</item>
+        <item>SLE219</item>
+        <item>SLE220</item>
+        <item>SLE221</item>
+        <item>SLE222</item>
+        <item>SLE223</item>
+        <item>SLE224</item>
+        <item>SLE225</item>
+        <item>SLE226</item>
+        <item>SLE228</item>
+        <item>SLE229</item>
+        <item>SLE231</item>
+        <item>SLE234</item>
+        <item>SLE235</item>
+        <item>SLE236</item>
+        <item>SLE237</item>
+        <item>SLE238</item>
+        <item>SLE239</item>
+        <item>SLE240</item>
+        <item>SLE242</item>
+        <item>SLE244</item>
+        <item>SLE251</item>
+        <item>SLE254</item>
+        <item>SLE261</item>
+        <item>SLE262</item>
+        <item>SLE263</item>
+        <item>SLE265</item>
+        <item>SLE266</item>
+        <item>SLE291</item>
+        <item>SRA215</item>
+        <item>SRA224</item>
+        <item>SRD263</item>
+        <item>SRD264</item>
+        <item>SRE270</item>
+        <item>SRE272</item>
+        <item>SRM261</item>
+        <item>SRM281</item>
+        <item>SRT214</item>
+        <item>SRT251</item>
+        <item>SRT257</item>
+        <item>SRT259</item>
+        <item>ACA309</item>
+        <item>ACA310</item>
+        <item>ACA311</item>
+        <item>ACA397</item>
+        <item>ACC302</item>
+        <item>ACC303</item>
+        <item>ACC317</item>
+        <item>ACC318</item>
+        <item>ACC319</item>
+        <item>ACC320</item>
+        <item>ACC321</item>
+        <item>ACF303</item>
+        <item>ACF307</item>
+        <item>ACF308</item>
+        <item>ACF320</item>
+        <item>ACG308</item>
+        <item>ACI301</item>
+        <item>ACI302</item>
+        <item>ACI303</item>
+        <item>ACI304</item>
+        <item>ACP323</item>
+        <item>ACP324</item>
+        <item>ACP326</item>
+        <item>ACP378</item>
+        <item>ACR301</item>
+        <item>ACR302</item>
+        <item>ACR303</item>
+        <item>ACR304</item>
+        <item>ACR305</item>
+        <item>ACR306</item>
+        <item>ACV307</item>
+        <item>ACV310</item>
+        <item>ACV311</item>
+        <item>ACV312</item>
+        <item>ADD301</item>
+        <item>ADD302</item>
+        <item>ADD303</item>
+        <item>AGS300</item>
+        <item>AIB309</item>
+        <item>AIB310</item>
+        <item>AIB351</item>
+        <item>AIB352</item>
+        <item>AIC381</item>
+        <item>AIC382</item>
+        <item>AIC383</item>
+        <item>AIC384</item>
+        <item>AIC385</item>
+        <item>AIC386</item>
+        <item>AIC387</item>
+        <item>AIC389</item>
+        <item>AIE334</item>
+        <item>AIE335</item>
+        <item>AIE364</item>
+        <item>AIE365</item>
+        <item>AIF320</item>
+        <item>AIF321</item>
+        <item>AIF341</item>
+        <item>AIF342</item>
+        <item>AIF345</item>
+        <item>AIF354</item>
+        <item>AIG300</item>
+        <item>AIH326</item>
+        <item>AIH389</item>
+        <item>AIH399</item>
+        <item>AIP300</item>
+        <item>AIP301</item>
+        <item>AIR348</item>
+        <item>AIR349</item>
+        <item>AIS303</item>
+        <item>AIS330</item>
+        <item>AIS331</item>
+        <item>ALA302</item>
+        <item>ALA303</item>
+        <item>ALA304</item>
+        <item>ALC302</item>
+        <item>ALJ304</item>
+        <item>ALJ330</item>
+        <item>ALJ331</item>
+        <item>ALL301</item>
+        <item>ALL326</item>
+        <item>ALL350</item>
+        <item>ALL376</item>
+        <item>ALL381</item>
+        <item>ALM304</item>
+        <item>ALM305</item>
+        <item>ALR300</item>
+        <item>ALR311</item>
+        <item>ALR383</item>
+        <item>ALS300</item>
+        <item>ALS325</item>
+        <item>ALS350</item>
+        <item>ALS360</item>
+        <item>ALS370</item>
+        <item>ALW394</item>
+        <item>ALW395</item>
+        <item>ALW396</item>
+        <item>AMC300</item>
+        <item>AMC327</item>
+        <item>AMC339</item>
+        <item>AMC340</item>
+        <item>APE301</item>
+        <item>ASC304</item>
+        <item>ASC308</item>
+        <item>ASC320</item>
+        <item>ASC346</item>
+        <item>ASP309</item>
+        <item>ASP326</item>
+        <item>ASR300</item>
+        <item>ASS329</item>
+        <item>ASS330</item>
+        <item>EAA301</item>
+        <item>ECA304</item>
+        <item>ECE312</item>
+        <item>ECE320</item>
+        <item>ECE330</item>
+        <item>ECE340</item>
+        <item>ECE345</item>
+        <item>ECE360</item>
+        <item>ECE370</item>
+        <item>ECI350</item>
+        <item>ECL306</item>
+        <item>ECL307</item>
+        <item>ECL310</item>
+        <item>ECL350</item>
+        <item>ECL351</item>
+        <item>ECP327</item>
+        <item>EDU301</item>
+        <item>EDU302</item>
+        <item>EDU303</item>
+        <item>EEA311</item>
+        <item>EEC381</item>
+        <item>EEG302</item>
+        <item>EEH301</item>
+        <item>EEH302</item>
+        <item>EEH315</item>
+        <item>EEI301</item>
+        <item>EEI302</item>
+        <item>EEO301</item>
+        <item>EEO320</item>
+        <item>EES300</item>
+        <item>EES301</item>
+        <item>EPP303</item>
+        <item>EPP305</item>
+        <item>ESM303</item>
+        <item>ESM310</item>
+        <item>ETP300</item>
+        <item>ETP303</item>
+        <item>HBS300</item>
+        <item>HBS340</item>
+        <item>HBS345</item>
+        <item>HDS301</item>
+        <item>HDS310</item>
+        <item>HMI301</item>
+        <item>HMI302</item>
+        <item>HMI303</item>
+        <item>HMI304</item>
+        <item>HMM301</item>
+        <item>HMM302</item>
+        <item>HMM303</item>
+        <item>HMM304</item>
+        <item>HMM305</item>
+        <item>HMO300</item>
+        <item>HMO303</item>
+        <item>HMO304</item>
+        <item>HMO305</item>
+        <item>HMO306</item>
+        <item>HNM310</item>
+        <item>HNM311</item>
+        <item>HNM313</item>
+        <item>HNM314</item>
+        <item>HNM323</item>
+        <item>HNN300</item>
+        <item>HNN301</item>
+        <item>HNN313</item>
+        <item>HNN318</item>
+        <item>HNN319</item>
+        <item>HNN320</item>
+        <item>HNN321</item>
+        <item>HNN325</item>
+        <item>HNN348</item>
+        <item>HPS301</item>
+        <item>HPS302</item>
+        <item>HPS304</item>
+        <item>HPS307</item>
+        <item>HPS308</item>
+        <item>HPS310</item>
+        <item>HPS325</item>
+        <item>HPS327</item>
+        <item>HPS328</item>
+        <item>HPS395</item>
+        <item>HSE301</item>
+        <item>HSE302</item>
+        <item>HSE303</item>
+        <item>HSE304</item>
+        <item>HSE305</item>
+        <item>HSE309</item>
+        <item>HSE311</item>
+        <item>HSE312</item>
+        <item>HSE314</item>
+        <item>HSE316</item>
+        <item>HSE320</item>
+        <item>HSE321</item>
+        <item>HSE322</item>
+        <item>HSE323</item>
+        <item>HSE329</item>
+        <item>HSE330</item>
+        <item>HSE331</item>
+        <item>HSE332</item>
+        <item>HSE360</item>
+        <item>HSH302</item>
+        <item>HSH303</item>
+        <item>HSH306</item>
+        <item>HSH313</item>
+        <item>HSH318</item>
+        <item>HSH319</item>
+        <item>HSH323</item>
+        <item>HSH324</item>
+        <item>HSH340</item>
+        <item>HSH360</item>
+        <item>HSN301</item>
+        <item>HSN302</item>
+        <item>HSN305</item>
+        <item>HSN307</item>
+        <item>HSN308</item>
+        <item>HSN309</item>
+        <item>HSN311</item>
+        <item>HSN315</item>
+        <item>HSN319</item>
+        <item>HSN320</item>
+        <item>HSN360</item>
+        <item>HSO302</item>
+        <item>HSO304</item>
+        <item>HSO305</item>
+        <item>HSO306</item>
+        <item>HSO307</item>
+        <item>HSO308</item>
+        <item>HSW313</item>
+        <item>HSW314</item>
+        <item>HSW316</item>
+        <item>HSW322</item>
+        <item>MAA303</item>
+        <item>MAA310</item>
+        <item>MAA317</item>
+        <item>MAA318</item>
+        <item>MAA319</item>
+        <item>MAA363</item>
+        <item>MAB341</item>
+        <item>MAB352</item>
+        <item>MAB353</item>
+        <item>MAE301</item>
+        <item>MAE302</item>
+        <item>MAE304</item>
+        <item>MAE305</item>
+        <item>MAE306</item>
+        <item>MAE307</item>
+        <item>MAE308</item>
+        <item>MAE312</item>
+        <item>MAE315</item>
+        <item>MAF302</item>
+        <item>MAF306</item>
+        <item>MAF307</item>
+        <item>MAF308</item>
+        <item>MAF367</item>
+        <item>MAT348</item>
+        <item>MIS312</item>
+        <item>MIS313</item>
+        <item>MIS352</item>
+        <item>MIS362</item>
+        <item>MIS373</item>
+        <item>MIS384</item>
+        <item>MIS398</item>
+        <item>MIS399</item>
+        <item>MIT399</item>
+        <item>MLC301</item>
+        <item>MLC302</item>
+        <item>MLC305</item>
+        <item>MLC309</item>
+        <item>MLC310</item>
+        <item>MLL301</item>
+        <item>MLL318</item>
+        <item>MLL319</item>
+        <item>MLL320</item>
+        <item>MLL323</item>
+        <item>MLL325</item>
+        <item>MLL327</item>
+        <item>MLL329</item>
+        <item>MLL330</item>
+        <item>MLL331</item>
+        <item>MLL332</item>
+        <item>MLL334</item>
+        <item>MLL336</item>
+        <item>MLL337</item>
+        <item>MLL338</item>
+        <item>MLL342</item>
+        <item>MLL351</item>
+        <item>MLL355</item>
+        <item>MLL388</item>
+        <item>MLL391</item>
+        <item>MLL394</item>
+        <item>MLT345</item>
+        <item>MLT346</item>
+        <item>MMH331</item>
+        <item>MMH349</item>
+        <item>MMH352</item>
+        <item>MMH356</item>
+        <item>MMK317</item>
+        <item>MMK325</item>
+        <item>MMK365</item>
+        <item>MMK368</item>
+        <item>MMM306</item>
+        <item>MMM308</item>
+        <item>MMM311</item>
+        <item>MMM312</item>
+        <item>MMM315</item>
+        <item>MMM343</item>
+        <item>MMP311</item>
+        <item>MMP321</item>
+        <item>MMP322</item>
+        <item>MMS306</item>
+        <item>MMS307</item>
+        <item>MMS308</item>
+        <item>MMS313</item>
+        <item>MMS314</item>
+        <item>MWL315</item>
+        <item>MWL316</item>
+        <item>MWL317</item>
+        <item>MWL318</item>
+        <item>SEB324</item>
+        <item>SED302</item>
+        <item>SED304</item>
+        <item>SEE307</item>
+        <item>SEE308</item>
+        <item>SEE309</item>
+        <item>SEE312</item>
+        <item>SEE320</item>
+        <item>SEE321</item>
+        <item>SEE326</item>
+        <item>SEE332</item>
+        <item>SEE333</item>
+        <item>SEE344</item>
+        <item>SEM300</item>
+        <item>SEM301</item>
+        <item>SEM302</item>
+        <item>SEM313</item>
+        <item>SEM327</item>
+        <item>SER300</item>
+        <item>SER301</item>
+        <item>SEV300</item>
+        <item>SEV301</item>
+        <item>SEV311</item>
+        <item>SEV320</item>
+        <item>SEV322</item>
+        <item>SEV323</item>
+        <item>SEV328</item>
+        <item>SEV331</item>
+        <item>SEV353</item>
+        <item>SEV354</item>
+        <item>SEV362</item>
+        <item>SHD301</item>
+        <item>SIT302</item>
+        <item>SIT305</item>
+        <item>SIT306</item>
+        <item>SIT307</item>
+        <item>SIT308</item>
+        <item>SIT310</item>
+        <item>SIT311</item>
+        <item>SIT312</item>
+        <item>SIT313</item>
+        <item>SIT314</item>
+        <item>SIT315</item>
+        <item>SIT316</item>
+        <item>SIT317</item>
+        <item>SIT319</item>
+        <item>SIT320</item>
+        <item>SIT322</item>
+        <item>SIT323</item>
+        <item>SIT352</item>
+        <item>SIT361</item>
+        <item>SIT374</item>
+        <item>SIT378</item>
+        <item>SIT379</item>
+        <item>SIT382</item>
+        <item>SIT383</item>
+        <item>SIT384</item>
+        <item>SIT396</item>
+        <item>SIT399</item>
+        <item>SLE301</item>
+        <item>SLE302</item>
+        <item>SLE303</item>
+        <item>SLE304</item>
+        <item>SLE305</item>
+        <item>SLE307</item>
+        <item>SLE308</item>
+        <item>SLE309</item>
+        <item>SLE310</item>
+        <item>SLE311</item>
+        <item>SLE312</item>
+        <item>SLE313</item>
+        <item>SLE314</item>
+        <item>SLE315</item>
+        <item>SLE316</item>
+        <item>SLE317</item>
+        <item>SLE318</item>
+        <item>SLE319</item>
+        <item>SLE320</item>
+        <item>SLE321</item>
+        <item>SLE322</item>
+        <item>SLE323</item>
+        <item>SLE324</item>
+        <item>SLE325</item>
+        <item>SLE326</item>
+        <item>SLE327</item>
+        <item>SLE328</item>
+        <item>SLE329</item>
+        <item>SLE330</item>
+        <item>SLE332</item>
+        <item>SLE334</item>
+        <item>SLE338</item>
+        <item>SLE339</item>
+        <item>SLE340</item>
+        <item>SLE341</item>
+        <item>SLE342</item>
+        <item>SLE343</item>
+        <item>SLE345</item>
+        <item>SLE346</item>
+        <item>SLE348</item>
+        <item>SLE349</item>
+        <item>SLE350</item>
+        <item>SLE352</item>
+        <item>SLE353</item>
+        <item>SLE354</item>
+        <item>SLE355</item>
+        <item>SLE356</item>
+        <item>SLE360</item>
+        <item>SLE370</item>
+        <item>SLE371</item>
+        <item>SLE390</item>
+        <item>SLE395</item>
+        <item>SLE397</item>
+        <item>SRA323</item>
+        <item>SRC362</item>
+        <item>SRD363</item>
+        <item>SRD364</item>
+        <item>SRE302</item>
+        <item>SRM310</item>
+        <item>SRM381</item>
+        <item>SRQ301</item>
+        <item>SRR311</item>
+        <item>SRR367</item>
+        <item>SRT351</item>
+        <item>SRT358</item>
+        <item>STP301</item>
+        <item>STP341</item>
+        <item>XOS338</item>
+        <item>XOS339</item>
+        <item>XOS340</item>
+        <item>XOS341</item>
+        <item>XOS342</item>
+        <item>XOS343</item>
+        <item>XOS344</item>
+        <item>ACA701</item>
+        <item>ACA702</item>
+        <item>ACA703</item>
+        <item>ACA704</item>
+        <item>ACA710</item>
+        <item>ACA711</item>
+        <item>ACA712</item>
+        <item>ACA715</item>
+        <item>ACC700</item>
+        <item>ACC717</item>
+        <item>ACF700</item>
+        <item>ACF701</item>
+        <item>ACF702</item>
+        <item>ACF703</item>
+        <item>ACF705</item>
+        <item>ACF706</item>
+        <item>ACF707</item>
+        <item>ACF708</item>
+        <item>ACF709</item>
+        <item>ACF710</item>
+        <item>ACF711</item>
+        <item>ACG702</item>
+        <item>ACG703</item>
+        <item>ACG706</item>
+        <item>ACG708</item>
+        <item>ACG709</item>
+        <item>ACI700</item>
+        <item>ACR701</item>
+        <item>ACR702</item>
+        <item>ACR703</item>
+        <item>ACR704</item>
+        <item>ACR705</item>
+        <item>ACR706</item>
+        <item>ACR707</item>
+        <item>ACR708</item>
+        <item>ACR709</item>
+        <item>ACR710</item>
+        <item>ACX701</item>
+        <item>ACX702</item>
+        <item>ACX703</item>
+        <item>ACX704</item>
+        <item>ACX705</item>
+        <item>ACX706</item>
+        <item>ACX707</item>
+        <item>ACX708</item>
+        <item>ADH700</item>
+        <item>ADH701</item>
+        <item>ADH702</item>
+        <item>ADH703</item>
+        <item>ADH712</item>
+        <item>ADH714</item>
+        <item>ADH716</item>
+        <item>ADH717</item>
+        <item>ADH724</item>
+        <item>ADH733</item>
+        <item>ADH790</item>
+        <item>ADS701</item>
+        <item>ADS704</item>
+        <item>ADS705</item>
+        <item>ADS711</item>
+        <item>ADS715</item>
+        <item>ADS720</item>
+        <item>ADS721</item>
+        <item>ADS722</item>
+        <item>ADS723</item>
+        <item>ADS733</item>
+        <item>ADS734</item>
+        <item>ADS753</item>
+        <item>AER730</item>
+        <item>AHA716</item>
+        <item>AHA721</item>
+        <item>AHA722</item>
+        <item>AHA723</item>
+        <item>AHA724</item>
+        <item>AHA725</item>
+        <item>AHA726</item>
+        <item>AHL701</item>
+        <item>AHL702</item>
+        <item>AHL703</item>
+        <item>AHL704</item>
+        <item>AHL705</item>
+        <item>AIM703</item>
+        <item>AIM704</item>
+        <item>AIM705</item>
+        <item>AIM708</item>
+        <item>AIM709</item>
+        <item>AIM714</item>
+        <item>AIM715</item>
+        <item>AIM717</item>
+        <item>AIM718</item>
+        <item>AIM722</item>
+        <item>AIM723</item>
+        <item>AIM727</item>
+        <item>AIM733</item>
+        <item>AIM734</item>
+        <item>AIM735</item>
+        <item>AIM736</item>
+        <item>AIN701</item>
+        <item>AIN702</item>
+        <item>AIP703</item>
+        <item>AIP704</item>
+        <item>AIP740</item>
+        <item>AIP746</item>
+        <item>AIP748</item>
+        <item>AIP773</item>
+        <item>AIP780</item>
+        <item>AIP781</item>
+        <item>AIP783</item>
+        <item>AIP785</item>
+        <item>AIR701</item>
+        <item>AIR707</item>
+        <item>AIR712</item>
+        <item>AIR717</item>
+        <item>AIR720</item>
+        <item>AIR726</item>
+        <item>AIR728</item>
+        <item>AIR729</item>
+        <item>AIR732</item>
+        <item>AIR742</item>
+        <item>AIR747</item>
+        <item>AIR748</item>
+        <item>AIR753</item>
+        <item>AIR790</item>
+        <item>AIX701</item>
+        <item>AIX702</item>
+        <item>AIX703</item>
+        <item>AIX704</item>
+        <item>AIX705</item>
+        <item>AIX706</item>
+        <item>AIX707</item>
+        <item>AIX708</item>
+        <item>ALC701</item>
+        <item>ALC702</item>
+        <item>ALC703</item>
+        <item>ALC708</item>
+        <item>ALJ710</item>
+        <item>ALJ712</item>
+        <item>ALJ721</item>
+        <item>ALJ722</item>
+        <item>ALJ728</item>
+        <item>ALJ729</item>
+        <item>ALL701</item>
+        <item>ALL702</item>
+        <item>ALL705</item>
+        <item>ALL706</item>
+        <item>ALL708</item>
+        <item>ALL721</item>
+        <item>ALL722</item>
+        <item>ALL727</item>
+        <item>ALL728</item>
+        <item>ALL743</item>
+        <item>ALL784</item>
+        <item>ALR700</item>
+        <item>ALR701</item>
+        <item>ALR703</item>
+        <item>ALR704</item>
+        <item>ALR710</item>
+        <item>ALR718</item>
+        <item>ALR731</item>
+        <item>ALR733</item>
+        <item>ALR782</item>
+        <item>ALW725</item>
+        <item>ALW730</item>
+        <item>ALW732</item>
+        <item>ALW734</item>
+        <item>ALW736</item>
+        <item>ALW738</item>
+        <item>ALW739</item>
+        <item>ALW740</item>
+        <item>ALX705</item>
+        <item>ALX720</item>
+        <item>ALX722</item>
+        <item>ALX723</item>
+        <item>ALX724</item>
+        <item>ALX725</item>
+        <item>ALX726</item>
+        <item>ASS705</item>
+        <item>ECA731</item>
+        <item>ECA732</item>
+        <item>ECA733</item>
+        <item>ECA734</item>
+        <item>ECA735</item>
+        <item>ECA736</item>
+        <item>ECE703</item>
+        <item>ECE704</item>
+        <item>ECE705</item>
+        <item>ECE711</item>
+        <item>ECE761</item>
+        <item>ECE762</item>
+        <item>ECE763</item>
+        <item>ECE764</item>
+        <item>ECL761</item>
+        <item>ECL762</item>
+        <item>ECM710</item>
+        <item>ECM711</item>
+        <item>ECM712</item>
+        <item>ECM713</item>
+        <item>ECN704</item>
+        <item>ECN720</item>
+        <item>ECN722</item>
+        <item>ECN723</item>
+        <item>ECN724</item>
+        <item>ECN725</item>
+        <item>ECN726</item>
+        <item>ECN728</item>
+        <item>ECN729</item>
+        <item>ECN731</item>
+        <item>ECN732</item>
+        <item>ECN733</item>
+        <item>ECN734</item>
+        <item>ECN735</item>
+        <item>ECN736</item>
+        <item>ECP703</item>
+        <item>ECP711</item>
+        <item>ECP712</item>
+        <item>ECP713</item>
+        <item>EDE798</item>
+        <item>EDX701</item>
+        <item>EDX703</item>
+        <item>EDX704</item>
+        <item>EDX705</item>
+        <item>EDX706</item>
+        <item>EDX707</item>
+        <item>EDX712</item>
+        <item>EEE726</item>
+        <item>EEE730</item>
+        <item>EEE732</item>
+        <item>EEE733</item>
+        <item>EEE735</item>
+        <item>EEE736</item>
+        <item>EEE740</item>
+        <item>EEE741</item>
+        <item>EEE742</item>
+        <item>EEE743</item>
+        <item>EEE751</item>
+        <item>EEE752</item>
+        <item>EEE753</item>
+        <item>EEE754</item>
+        <item>EEE755</item>
+        <item>EEE756</item>
+        <item>EEG701</item>
+        <item>EEG702</item>
+        <item>EEG703</item>
+        <item>EEG704</item>
+        <item>EEH730</item>
+        <item>EEI703</item>
+        <item>EEI704</item>
+        <item>EEI705</item>
+        <item>EEI715</item>
+        <item>EEI716</item>
+        <item>EEL702</item>
+        <item>EHI701</item>
+        <item>EHI702</item>
+        <item>EHU701</item>
+        <item>EHU702</item>
+        <item>EHU703</item>
+        <item>EHU704</item>
+        <item>EIB701</item>
+        <item>EIB702</item>
+        <item>EIB703</item>
+        <item>EIB704</item>
+        <item>EIE701</item>
+        <item>EIE702</item>
+        <item>EIE703</item>
+        <item>EIE704</item>
+        <item>ELT700</item>
+        <item>ELT701</item>
+        <item>ELT702</item>
+        <item>ELT703</item>
+        <item>ELT711</item>
+        <item>ELT712</item>
+        <item>ELT713</item>
+        <item>ELT714</item>
+        <item>EPL746</item>
+        <item>EPM742</item>
+        <item>EPO701</item>
+        <item>EPO702</item>
+        <item>EPR704</item>
+        <item>EPR711</item>
+        <item>EPR712</item>
+        <item>EPR713</item>
+        <item>EPR714</item>
+        <item>EPR715</item>
+        <item>EPR721</item>
+        <item>EPR722</item>
+        <item>EPR723</item>
+        <item>EPR724</item>
+        <item>EPR725</item>
+        <item>EPR731</item>
+        <item>EPR732</item>
+        <item>EPR733</item>
+        <item>EPR735</item>
+        <item>EPR741</item>
+        <item>EPR742</item>
+        <item>EPR743</item>
+        <item>EPR744</item>
+        <item>EPR745</item>
+        <item>EPR751</item>
+        <item>EPR752</item>
+        <item>EPR753</item>
+        <item>EPR754</item>
+        <item>EPR755</item>
+        <item>EPR761</item>
+        <item>EPR771</item>
+        <item>EPS735</item>
+        <item>ESH702</item>
+        <item>ESH703</item>
+        <item>ESM701</item>
+        <item>ESM704</item>
+        <item>ESM724</item>
+        <item>ESM725</item>
+        <item>ESM733</item>
+        <item>ESP701</item>
+        <item>ESP706</item>
+        <item>ESP707</item>
+        <item>ESS701</item>
+        <item>ESS741</item>
+        <item>ESS742</item>
+        <item>ESS744</item>
+        <item>ESS745</item>
+        <item>ESS755</item>
+        <item>ESS767</item>
+        <item>ESS768</item>
+        <item>ETL700</item>
+        <item>ETL701</item>
+        <item>ETL702</item>
+        <item>ETL703</item>
+        <item>ETL704</item>
+        <item>ETL705</item>
+        <item>ETL706</item>
+        <item>ETL708</item>
+        <item>ETL709</item>
+        <item>ETL710</item>
+        <item>ETL711</item>
+        <item>ETL712</item>
+        <item>ETL713</item>
+        <item>ETL714</item>
+        <item>ETL715</item>
+        <item>ETL716</item>
+        <item>ETM701</item>
+        <item>ETM702</item>
+        <item>ETM703</item>
+        <item>ETM704</item>
+        <item>EXC725</item>
+        <item>EXE723</item>
+        <item>EXE731</item>
+        <item>EXE732</item>
+        <item>EXE734</item>
+        <item>FMB702</item>
+        <item>HBS745</item>
+        <item>HDS730</item>
+        <item>HDS731</item>
+        <item>HDS732</item>
+        <item>HDS733</item>
+        <item>HDS734</item>
+        <item>HDS736</item>
+        <item>HME704</item>
+        <item>HME705</item>
+        <item>HME706</item>
+        <item>HME707</item>
+        <item>HME710</item>
+        <item>HME711</item>
+        <item>HME712</item>
+        <item>HME713</item>
+        <item>HME714</item>
+        <item>HMF701</item>
+        <item>HMF702</item>
+        <item>HMO700</item>
+        <item>HMO701</item>
+        <item>HMO702</item>
+        <item>HMO703</item>
+        <item>HMO704</item>
+        <item>HND701</item>
+        <item>HND702</item>
+        <item>HND731</item>
+        <item>HND732</item>
+        <item>HNM701</item>
+        <item>HNM702</item>
+        <item>HNM703</item>
+        <item>HNM704</item>
+        <item>HNM705</item>
+        <item>HNN704</item>
+        <item>HNN713</item>
+        <item>HNN714</item>
+        <item>HNN715</item>
+        <item>HNN727</item>
+        <item>HNN730</item>
+        <item>HNN732</item>
+        <item>HNN733</item>
+        <item>HNN740</item>
+        <item>HNN742</item>
+        <item>HNN743</item>
+        <item>HNN749</item>
+        <item>HNN750</item>
+        <item>HNN751</item>
+        <item>HNN752</item>
+        <item>HNN755</item>
+        <item>HNN756</item>
+        <item>HNN757</item>
+        <item>HNN758</item>
+        <item>HNN759</item>
+        <item>HNN764</item>
+        <item>HNN765</item>
+        <item>HNN766</item>
+        <item>HNN767</item>
+        <item>HNN771</item>
+        <item>HNN772</item>
+        <item>HNN773</item>
+        <item>HNN774</item>
+        <item>HNN775</item>
+        <item>HNN776</item>
+        <item>HNN777</item>
+        <item>HNN780</item>
+        <item>HNN781</item>
+        <item>HNN788</item>
+        <item>HPS705</item>
+        <item>HPS706</item>
+        <item>HPS707</item>
+        <item>HPS708</item>
+        <item>HPS709</item>
+        <item>HPS711</item>
+        <item>HPS712</item>
+        <item>HPS714</item>
+        <item>HPS715</item>
+        <item>HPS721</item>
+        <item>HPS722</item>
+        <item>HPS723</item>
+        <item>HPS724</item>
+        <item>HPS725</item>
+        <item>HPS726</item>
+        <item>HPS727</item>
+        <item>HPS728</item>
+        <item>HPS730</item>
+        <item>HPS742</item>
+        <item>HPS758</item>
+        <item>HPS759</item>
+        <item>HPS766</item>
+        <item>HPS767</item>
+        <item>HPS771</item>
+        <item>HPS772</item>
+        <item>HPS773</item>
+        <item>HPS774</item>
+        <item>HPS775</item>
+        <item>HPS776</item>
+        <item>HPS777</item>
+        <item>HPS778</item>
+        <item>HPS779</item>
+        <item>HPS781</item>
+        <item>HPS785</item>
+        <item>HPS787</item>
+        <item>HPS788</item>
+        <item>HPS791</item>
+        <item>HPS792</item>
+        <item>HPS793</item>
+        <item>HPS794</item>
+        <item>HPY701</item>
+        <item>HPY710</item>
+        <item>HPY711</item>
+        <item>HPY712</item>
+        <item>HPY713</item>
+        <item>HPY720</item>
+        <item>HPY721</item>
+        <item>HPY722</item>
+        <item>HPY723</item>
+        <item>HPY724</item>
+        <item>HPY725</item>
+        <item>HPY726</item>
+        <item>HPY727</item>
+        <item>HPY728</item>
+        <item>HPY729</item>
+        <item>HSE702</item>
+        <item>HSE703</item>
+        <item>HSE704</item>
+        <item>HSE705</item>
+        <item>HSE706</item>
+        <item>HSE707</item>
+        <item>HSE709</item>
+        <item>HSE711</item>
+        <item>HSE712</item>
+        <item>HSE714</item>
+        <item>HSE715</item>
+        <item>HSE717</item>
+        <item>HSE720</item>
+        <item>HSE721</item>
+        <item>HSE722</item>
+        <item>HSE723</item>
+        <item>HSE724</item>
+        <item>HSE725</item>
+        <item>HSE726</item>
+        <item>HSE727</item>
+        <item>HSE728</item>
+        <item>HSE729</item>
+        <item>HSE730</item>
+        <item>HSH701</item>
+        <item>HSH702</item>
+        <item>HSH703</item>
+        <item>HSH704</item>
+        <item>HSH705</item>
+        <item>HSH709</item>
+        <item>HSH712</item>
+        <item>HSH715</item>
+        <item>HSH717</item>
+        <item>HSH719</item>
+        <item>HSH724</item>
+        <item>HSH725</item>
+        <item>HSH728</item>
+        <item>HSH731</item>
+        <item>HSH732</item>
+        <item>HSH733</item>
+        <item>HSH734</item>
+        <item>HSH736</item>
+        <item>HSH739</item>
+        <item>HSH744</item>
+        <item>HSH745</item>
+        <item>HSH746</item>
+        <item>HSH747</item>
+        <item>HSH754</item>
+        <item>HSH755</item>
+        <item>HSH760</item>
+        <item>HSH761</item>
+        <item>HSH762</item>
+        <item>HSH763</item>
+        <item>HSH764</item>
+        <item>HSH765</item>
+        <item>HSH766</item>
+        <item>HSH767</item>
+        <item>HSH768</item>
+        <item>HSH769</item>
+        <item>HSN701</item>
+        <item>HSN702</item>
+        <item>HSN703</item>
+        <item>HSN705</item>
+        <item>HSN706</item>
+        <item>HSN708</item>
+        <item>HSN709</item>
+        <item>HSN713</item>
+        <item>HSN714</item>
+        <item>HSN715</item>
+        <item>HSN719</item>
+        <item>HSN734</item>
+        <item>HSN735</item>
+        <item>HSN738</item>
+        <item>HSN740</item>
+        <item>HSN741</item>
+        <item>HSN742</item>
+        <item>HSN743</item>
+        <item>HSN744</item>
+        <item>HSN745</item>
+        <item>HSN746</item>
+        <item>HSN747</item>
+        <item>HSN749</item>
+        <item>HSN750</item>
+        <item>HSN751</item>
+        <item>HSN753</item>
+        <item>HSN754</item>
+        <item>HSN758</item>
+        <item>HSN760</item>
+        <item>HSO709</item>
+        <item>HSO710</item>
+        <item>HSO711</item>
+        <item>HSO712</item>
+        <item>HSO713</item>
+        <item>HSO715</item>
+        <item>HSO717</item>
+        <item>HSO720</item>
+        <item>HSO723</item>
+        <item>HSO724</item>
+        <item>HSR701</item>
+        <item>HSR702</item>
+        <item>HSW701</item>
+        <item>HSW702</item>
+        <item>HSW703</item>
+        <item>HSW704</item>
+        <item>HSW705</item>
+        <item>HSW707</item>
+        <item>HSW709</item>
+        <item>HSW711</item>
+        <item>HSW714</item>
+        <item>HSW715</item>
+        <item>IND710</item>
+        <item>IND711</item>
+        <item>IND712</item>
+        <item>IND713</item>
+        <item>IND714</item>
+        <item>IND715</item>
+        <item>IND716</item>
+        <item>IND717</item>
+        <item>IND721</item>
+        <item>IND722</item>
+        <item>IND723</item>
+        <item>IND724</item>
+        <item>IND725</item>
+        <item>IND726</item>
+        <item>IND727</item>
+        <item>IND728</item>
+        <item>IPA701</item>
+        <item>MAA700</item>
+        <item>MAA703</item>
+        <item>MAA705</item>
+        <item>MAA716</item>
+        <item>MAA717</item>
+        <item>MAA718</item>
+        <item>MAA719</item>
+        <item>MAA720</item>
+        <item>MAA725</item>
+        <item>MAA726</item>
+        <item>MAA727</item>
+        <item>MAA728</item>
+        <item>MAA744</item>
+        <item>MAA745</item>
+        <item>MAA747</item>
+        <item>MAA753</item>
+        <item>MAA754</item>
+        <item>MAA763</item>
+        <item>MAA764</item>
+        <item>MAA765</item>
+        <item>MAA767</item>
+        <item>MAA769</item>
+        <item>MAA789</item>
+        <item>MAA795</item>
+        <item>MAE782</item>
+        <item>MAF702</item>
+        <item>MAF703</item>
+        <item>MAF704</item>
+        <item>MAF707</item>
+        <item>MAF711</item>
+        <item>MAF713</item>
+        <item>MAF723</item>
+        <item>MAF755</item>
+        <item>MAF759</item>
+        <item>MAF760</item>
+        <item>MAF761</item>
+        <item>MAF762</item>
+        <item>MAF764</item>
+        <item>MAF767</item>
+        <item>MAI728</item>
+        <item>MAI769</item>
+        <item>MAR725</item>
+        <item>MAT748</item>
+        <item>MBA700</item>
+        <item>MBA701</item>
+        <item>MBA702</item>
+        <item>MBA703</item>
+        <item>MBA704</item>
+        <item>MBA705</item>
+        <item>MBA706</item>
+        <item>MBA707</item>
+        <item>MBG771</item>
+        <item>MBG772</item>
+        <item>MBG773</item>
+        <item>MBG774</item>
+        <item>MBG775</item>
+        <item>MBG776</item>
+        <item>MBR701</item>
+        <item>MBR702</item>
+        <item>MBR704</item>
+        <item>MBR706</item>
+        <item>MBT703</item>
+        <item>MBT704</item>
+        <item>MIS701</item>
+        <item>MIS712</item>
+        <item>MIS713</item>
+        <item>MIS714</item>
+        <item>MIS732</item>
+        <item>MIS741</item>
+        <item>MIS761</item>
+        <item>MIS770</item>
+        <item>MIS770A</item>
+        <item>MIS771</item>
+        <item>MIS772</item>
+        <item>MIS775</item>
+        <item>MIS776</item>
+        <item>MIS778</item>
+        <item>MIS779</item>
+        <item>MIS780</item>
+        <item>MIS781</item>
+        <item>MIS782</item>
+        <item>MIS784</item>
+        <item>MIS793</item>
+        <item>MIS798</item>
+        <item>MIS799</item>
+        <item>MIT799</item>
+        <item>MLC703</item>
+        <item>MLC707</item>
+        <item>MLC709</item>
+        <item>MLC710</item>
+        <item>MLC713</item>
+        <item>MLC714</item>
+        <item>MLI714</item>
+        <item>MLJ701</item>
+        <item>MLJ702</item>
+        <item>MLJ703</item>
+        <item>MLJ704</item>
+        <item>MLJ705</item>
+        <item>MLJ706</item>
+        <item>MLJ707</item>
+        <item>MLJ708</item>
+        <item>MLJ709</item>
+        <item>MLJ710</item>
+        <item>MLJ711</item>
+        <item>MLJ712</item>
+        <item>MLJ713</item>
+        <item>MLJ714</item>
+        <item>MLJ715</item>
+        <item>MLJ716</item>
+        <item>MLJ717</item>
+        <item>MLJ718</item>
+        <item>MLJ719</item>
+        <item>MLJ720</item>
+        <item>MLJ721</item>
+        <item>MLJ722</item>
+        <item>MLJ723</item>
+        <item>MLJ724</item>
+        <item>MLJ725</item>
+        <item>MLJ726</item>
+        <item>MLJ727</item>
+        <item>MLJ728</item>
+        <item>MLJ729</item>
+        <item>MLJ730</item>
+        <item>MLJ738</item>
+        <item>MLM703</item>
+        <item>MLM704</item>
+        <item>MLM705</item>
+        <item>MLM706</item>
+        <item>MLM707</item>
+        <item>MLM712</item>
+        <item>MLM715</item>
+        <item>MLM716</item>
+        <item>MLM717</item>
+        <item>MLM718</item>
+        <item>MLM719</item>
+        <item>MLM720</item>
+        <item>MLM721</item>
+        <item>MLM727</item>
+        <item>MLM728</item>
+        <item>MLM731</item>
+        <item>MLM732</item>
+        <item>MLM735</item>
+        <item>MLM770</item>
+        <item>MLM785</item>
+        <item>MLM786</item>
+        <item>MLM788</item>
+        <item>MLM790</item>
+        <item>MLM792</item>
+        <item>MLT703</item>
+        <item>MLT782</item>
+        <item>MMH701</item>
+        <item>MMH702</item>
+        <item>MMH703</item>
+        <item>MMH704</item>
+        <item>MMH707</item>
+        <item>MMH709</item>
+        <item>MMH710</item>
+        <item>MMH733</item>
+        <item>MMH753</item>
+        <item>MMK737</item>
+        <item>MMK738</item>
+        <item>MMK739</item>
+        <item>MMK751</item>
+        <item>MMK792</item>
+        <item>MMM707</item>
+        <item>MMM750</item>
+        <item>MMM751</item>
+        <item>MMM752</item>
+        <item>MMM753</item>
+        <item>MMM790</item>
+        <item>MMM793</item>
+        <item>MMM796</item>
+        <item>MMM799</item>
+        <item>MMP712</item>
+        <item>MMP713</item>
+        <item>MMP721</item>
+        <item>MMP731</item>
+        <item>MMP732</item>
+        <item>MMP741</item>
+        <item>MMP742</item>
+        <item>MMS701</item>
+        <item>MMS702</item>
+        <item>MMS703</item>
+        <item>MMS704</item>
+        <item>MMS711</item>
+        <item>MMS712</item>
+        <item>MMS713</item>
+        <item>MMS714</item>
+        <item>MMS715</item>
+        <item>MMS716</item>
+        <item>MMS736</item>
+        <item>MMS773</item>
+        <item>MMS774</item>
+        <item>MPA701</item>
+        <item>MPA702</item>
+        <item>MPE707</item>
+        <item>MPE711</item>
+        <item>MPE781</item>
+        <item>MPF753</item>
+        <item>MPK701</item>
+        <item>MPK704</item>
+        <item>MPK713</item>
+        <item>MPK732</item>
+        <item>MPK733</item>
+        <item>MPK736</item>
+        <item>MPL700</item>
+        <item>MPL701</item>
+        <item>MPM701</item>
+        <item>MPM701A</item>
+        <item>MPM703</item>
+        <item>MPM705</item>
+        <item>MPM712</item>
+        <item>MPM715</item>
+        <item>MPM716</item>
+        <item>MPM722</item>
+        <item>MPM731</item>
+        <item>MPM732</item>
+        <item>MPM735</item>
+        <item>MPM755</item>
+        <item>MPM773</item>
+        <item>MPM792</item>
+        <item>MPP701</item>
+        <item>MPP702</item>
+        <item>MPP703</item>
+        <item>MPP704</item>
+        <item>MPR705</item>
+        <item>MPR779</item>
+        <item>MPT712</item>
+        <item>MPT732</item>
+        <item>MPT735</item>
+        <item>MPT736</item>
+        <item>MPT781</item>
+        <item>MWL705</item>
+        <item>MWL715</item>
+        <item>MWL716</item>
+        <item>MWL717</item>
+        <item>MWL718</item>
+        <item>SEB711</item>
+        <item>SEB723</item>
+        <item>SEB724</item>
+        <item>SEB725</item>
+        <item>SEE700</item>
+        <item>SEE701</item>
+        <item>SEE705</item>
+        <item>SEE707</item>
+        <item>SEE710</item>
+        <item>SEE711</item>
+        <item>SEE712</item>
+        <item>SEE716</item>
+        <item>SEE717</item>
+        <item>SEE718</item>
+        <item>SEE719</item>
+        <item>SEL703</item>
+        <item>SEM711</item>
+        <item>SEM712</item>
+        <item>SEM721</item>
+        <item>SEM722</item>
+        <item>SEM723</item>
+        <item>SEM724</item>
+        <item>SEM725</item>
+        <item>SEN700</item>
+        <item>SEN710</item>
+        <item>SEN719</item>
+        <item>SEN720</item>
+        <item>SEN723</item>
+        <item>SEN725</item>
+        <item>SEN727</item>
+        <item>SEN728</item>
+        <item>SEN729</item>
+        <item>SEN730</item>
+        <item>SEN731</item>
+        <item>SEN769</item>
+        <item>SEP701</item>
+        <item>SEP702</item>
+        <item>SET721</item>
+        <item>SIT701</item>
+        <item>SIT702</item>
+        <item>SIT703</item>
+        <item>SIT704</item>
+        <item>SIT706</item>
+        <item>SIT707</item>
+        <item>SIT708</item>
+        <item>SIT709</item>
+        <item>SIT714</item>
+        <item>SIT716</item>
+        <item>SIT717</item>
+        <item>SIT718</item>
+        <item>SIT719</item>
+        <item>SIT720</item>
+        <item>SIT722</item>
+        <item>SIT723</item>
+        <item>SIT724</item>
+        <item>SIT725</item>
+        <item>SIT726</item>
+        <item>SIT735</item>
+        <item>SIT737</item>
+        <item>SIT740</item>
+        <item>SIT741</item>
+        <item>SIT742</item>
+        <item>SIT743</item>
+        <item>SIT744</item>
+        <item>SIT750</item>
+        <item>SIT752</item>
+        <item>SIT755</item>
+        <item>SIT756</item>
+        <item>SIT757</item>
+        <item>SIT758</item>
+        <item>SIT759</item>
+        <item>SIT763</item>
+        <item>SIT764</item>
+        <item>SIT771</item>
+        <item>SIT772</item>
+        <item>SIT773</item>
+        <item>SIT774</item>
+        <item>SIT780</item>
+        <item>SIT782</item>
+        <item>SIT787</item>
+        <item>SIT788</item>
+        <item>SIT789</item>
+        <item>SIT790</item>
+        <item>SIT791</item>
+        <item>SIT792</item>
+        <item>SIT794</item>
+        <item>SIT796</item>
+        <item>SIT799</item>
+        <item>SLE703</item>
+        <item>SLE706</item>
+        <item>SLE712</item>
+        <item>SLE713</item>
+        <item>SLE720</item>
+        <item>SLE721</item>
+        <item>SLE725</item>
+        <item>SLE740</item>
+        <item>SLE741</item>
+        <item>SLE742</item>
+        <item>SLE743</item>
+        <item>SLE761</item>
+        <item>SLE762</item>
+        <item>SLE763</item>
+        <item>SLE764</item>
+        <item>SLE765</item>
+        <item>SLE766</item>
+        <item>SRA710</item>
+        <item>SRA742</item>
+        <item>SRA743</item>
+        <item>SRA744</item>
+        <item>SRD741</item>
+        <item>SRD742</item>
+        <item>SRD760</item>
+        <item>SRD761</item>
+        <item>SRD762</item>
+        <item>SRD763</item>
+        <item>SRD764</item>
+        <item>SRD765</item>
+        <item>SRD766</item>
+        <item>SRD768</item>
+        <item>SRL731</item>
+        <item>SRL732</item>
+        <item>SRL733</item>
+        <item>SRM750</item>
+        <item>SRM751</item>
+        <item>SRM752</item>
+        <item>SRM772</item>
+        <item>SRM776</item>
+        <item>SRM777</item>
+        <item>SRM781</item>
+        <item>SRP733</item>
+        <item>SRP761</item>
+        <item>SRP781</item>
+        <item>SRP782</item>
+        <item>SRQ745</item>
+        <item>SRQ762</item>
+        <item>SRQ763</item>
+        <item>SRQ764</item>
+        <item>SRQ774</item>
+        <item>SRQ780</item>
+        <item>SRR711</item>
+        <item>SRR720</item>
+        <item>SRR721</item>
+        <item>SRR722</item>
+        <item>SRR767</item>
+        <item>SRR782</item>
+        <item>SRT722</item>
+        <item>SRT750</item>
+        <item>SRT757</item>
+        <item>SRV799</item>
+        <item>SSC700</item>
+        <item>STP710</item>
+    </string-array>
+    <string-array name="UnitName">
+        <item>Introductory Creative Studio 1A</item>
+        <item>Introductory Creative Studio 1B</item>
+        <item>Communication in Everyday Life</item>
+        <item>Dance and Screens</item>
+        <item>Exploring Dance Styles From Hip Hop to Bollywood</item>
+        <item>Writing with the Camera</item>
+        <item>Screening History</item>
+        <item>Screen Practices</item>
+        <item>Principles of Animation</item>
+        <item>Design Skills</item>
+        <item>Analogue Photography</item>
+        <item>Digital Photography</item>
+        <item>Acting Studio</item>
+        <item>Improvisation in Drama and Performance</item>
+        <item>Introducing Crime and Criminology</item>
+        <item>Introducing Crime and Criminal Justice</item>
+        <item>Painting in the Visual Arts</item>
+        <item>Drawing and the Body in Visual Arts</item>
+        <item>Designing 3D Motion</item>
+        <item>Designing 3D Environments</item>
+        <item>Design Thinking</item>
+        <item>Design Skills and Technologies 1</item>
+        <item>Design Skills and Technologies 2</item>
+        <item>Design Laboratory</item>
+        <item>Drawing and Illustration</item>
+        <item>Typography and Publication Design</item>
+        <item>Sex and Gender: Ideas That Changed the World</item>
+        <item>Histories of Sex and Gender</item>
+        <item>Visions of Australia: Time and Space From 1700 to 2010</item>
+        <item>Arabic 1A</item>
+        <item>Arabic 1B</item>
+        <item>Chinese 1A</item>
+        <item>Chinese 1B</item>
+        <item>History of the Middle East</item>
+        <item>Understanding Middle East Politics</item>
+        <item>Conversational Indonesian B</item>
+        <item>The Language, Culture and People of Indonesia</item>
+        <item>People and Place: An Introduction to Human Geography</item>
+        <item>World History Between the Wars 1919 - 1939</item>
+        <item>The Cold War World: 1945-1991</item>
+        <item>Introduction to Politics</item>
+        <item>Visions and Values in Politics</item>
+        <item>World in Crisis</item>
+        <item>War, Terrorism and Humanitarian Responses</item>
+        <item>Intercultural Communication</item>
+        <item>Professional Writing for Work</item>
+        <item>Introduction to University Study</item>
+        <item>Advertising Principles and Practices</item>
+        <item>Creative Brand Communication</item>
+        <item>Media Genres: Negotiating Textual Forms and Pleasures</item>
+        <item>News Reporting 1</item>
+        <item>News Reporting 2</item>
+        <item>The Stories We Tell: Inventing Selves and Others</item>
+        <item>From Horror to Romance: Genre and Its Revisions</item>
+        <item>Literature for Children and Young Adults</item>
+        <item>Power Politics and Texts for Young People</item>
+        <item>Making Social Media</item>
+        <item>Making Video</item>
+        <item>Introduction to Public Relations</item>
+        <item>Strategic Communication and Writing</item>
+        <item>Spanish 1A</item>
+        <item>Spanish 1B</item>
+        <item>Writers Toolkit: Craft and Creativity</item>
+        <item>Writing Spaces: Paradigms and Provocations</item>
+        <item>Create Your Own Career</item>
+        <item>Introduction to Sociology A</item>
+        <item>Introduction to Sociology B</item>
+        <item>Freedom and Power: Existentialism and Beyond</item>
+        <item>Love, Sex and Death</item>
+        <item>World Religions</item>
+        <item>Peoples of the World</item>
+        <item>Culture and Communication</item>
+        <item>Communication Skills for Study and Work</item>
+        <item>Digital Literacy: Finding, Evaluating and Interpreting Information</item>
+        <item>Critical Thinking and Problem Solving: Using Analysis to Develop Solutions</item>
+        <item>Teamwork: Working Constructively with Others</item>
+        <item>Engaging and Exploring Arts Education</item>
+        <item>Child Development 1</item>
+        <item>Curriculum 1: Pedagogies and Play</item>
+        <item>Curriculum 2: Planning and Assessment for Teaching and Learning</item>
+        <item>Promoting Health, Wellbeing and Nutrition</item>
+        <item>Contemporary Perspectives of Education</item>
+        <item>Partnerships with Families and Communities</item>
+        <item>Creative Arts 1: Young Children and the Arts</item>
+        <item>Professional Knowledge (0-2 Years)</item>
+        <item>Education, Knowledge and Society</item>
+        <item>From Aristotle to ATARS: the History, Philosophy and Future of Education</item>
+        <item>Health and Physical Education Studies</item>
+        <item>The Art and Science of Movement</item>
+        <item>Foundations of Sport and Exercise Pedagogy and Practice</item>
+        <item>Primary Physical Education</item>
+        <item>Language: Speech and Sounds</item>
+        <item>Language: Words and Structure</item>
+        <item>Teacher-Learner Identity</item>
+        <item>Learning-Teaching Communities</item>
+        <item>Perspectives On Learning and Teachers Work</item>
+        <item>Social Contexts of Education</item>
+        <item>Understanding Health</item>
+        <item>Health Information and Data</item>
+        <item>Introduction to Anatomy and Physiology</item>
+        <item>Health Behaviour</item>
+        <item>Communication and Diversity</item>
+        <item>Diversity, Disability and Social Inclusion</item>
+        <item>Medical Radiation Science 1</item>
+        <item>Foundation Principles and Application of Medical Imaging 1</item>
+        <item>Medical Imaging Practice 1</item>
+        <item>Foundation Principles and Application of Medical Imaging 2</item>
+        <item>Medical Imaging Practice 2</item>
+        <item>Introduction to Medical Biotechnology</item>
+        <item>Principles of Gene and Genomic Technology</item>
+        <item>Cell Technology</item>
+        <item>Applied Ethics</item>
+        <item>Principles of Optics</item>
+        <item>Science of Vision 1</item>
+        <item>Clinical Optics</item>
+        <item>Ocular Structure</item>
+        <item>The Business of Optometry</item>
+        <item>Partnerships in Midwifery Care 1</item>
+        <item>Partnerships in Midwifery Care 2</item>
+        <item>Understanding Research Evidence</item>
+        <item>Quality and Safety: Nursing Practice 1</item>
+        <item>Health Assessment</item>
+        <item>Quality and Safety in Health Care</item>
+        <item>Quality and Safety: Nursing Practice 2</item>
+        <item>Foundations of Psychological Science</item>
+        <item>Foundations of Psychological Practice</item>
+        <item>Psychology A: Fundamentals of Human Behaviour</item>
+        <item>Psychology B: Individual and Social Development</item>
+        <item>Functional Human Anatomy</item>
+        <item>Essentials of Exercise Delivery</item>
+        <item>Research Methods and Statistics in Exercise and Sport</item>
+        <item>Principles of Sport Coaching</item>
+        <item>Muscle Biology for Exercise Science</item>
+        <item>Physical Activity and Exercise for Health</item>
+        <item>Pathways in the Physical Activity, Exercise and Health Industry</item>
+        <item>Human Growth, Development and Ageing for Exercise Scientists</item>
+        <item>Disease Prevention and Control</item>
+        <item>Health Protection</item>
+        <item>Understanding Families and Health</item>
+        <item>Local and Global Environments for Health</item>
+        <item>Social Perspectives on Population Health</item>
+        <item>Foundations of Food, Nutrition and Health</item>
+        <item>The Science of Food</item>
+        <item>Healthy and Sustainable Food Systems</item>
+        <item>Food Fundamentals</item>
+        <item>Physiology of Human Growth and Development</item>
+        <item>Foundations of Occupational Science and Therapy A</item>
+        <item>Foundations of Occupational Science and Therapy B</item>
+        <item>Introduction to Social Work: Social Work Theory and Practice A</item>
+        <item>Theories for Social Work Practice: Social Work Theory and Practice B</item>
+        <item>Social Work Methods in Context: Social Work Theory and Practice C</item>
+        <item>Introduction to Aboriginal Studies</item>
+        <item>Accounting for Decision Making</item>
+        <item>Financial Literacy</item>
+        <item>Economic Principles</item>
+        <item>Fundamentals of Finance</item>
+        <item>Business Analytics</item>
+        <item>Law for Commerce</item>
+        <item>Legal Research and Statutory Interpretation</item>
+        <item>Contract</item>
+        <item>Legal Communication and Ethical Decision Making</item>
+        <item>Criminal Law</item>
+        <item>Misleading Conduct and Economic Torts</item>
+        <item>Marketing Fundamentals</item>
+        <item>Intrapersonal Skills</item>
+        <item>Management</item>
+        <item>Introduction to Property</item>
+        <item>Introduction to Property Development</item>
+        <item>Sport Organisation</item>
+        <item>Professional Insight</item>
+        <item>Engineering Physics</item>
+        <item>Design Fundamentals</item>
+        <item>Electrical Systems Engineering Project</item>
+        <item>Materials Engineering Project</item>
+        <item>Environmental Design</item>
+        <item>Global Environmental Systems</item>
+        <item>Introduction to Programming</item>
+        <item>Data and Information Management</item>
+        <item>Thinking Technology and Design</item>
+        <item>Fundamental Concepts of Mathematics</item>
+        <item>Creative Coding</item>
+        <item>Algorithms and Computing Systems</item>
+        <item>Data Science Concepts</item>
+        <item>Cloud Computing and Virtualisation</item>
+        <item>Introduction to Artificial Intelligence</item>
+        <item>Introduction to Responsive Web Apps</item>
+        <item>Robotics Studio</item>
+        <item>Data Capture Technologies</item>
+        <item>Exploring I.T.</item>
+        <item>Game Fundamentals</item>
+        <item>Introduction to Creative Technologies</item>
+        <item>Programming for Engineers</item>
+        <item>Mathematical Visualisation and Reasoning</item>
+        <item>Real World Practices for Cyber Security</item>
+        <item>Application and Design of Virtual and Augmented Reality Systems</item>
+        <item>Introductory Mathematical Methods</item>
+        <item>Introduction to Statistics and Data Analysis</item>
+        <item>Discrete Mathematics</item>
+        <item>Introduction to Mathematical Modelling</item>
+        <item>Applied Algebra and Statistics</item>
+        <item>Techniques in Environmental Science</item>
+        <item>Physical Geography</item>
+        <item>Ecology and the Environment</item>
+        <item>The Blue Planet: Water and Life</item>
+        <item>Marine Pollution</item>
+        <item>Marine Environments</item>
+        <item>Ocean Processes</item>
+        <item>Cells and Genes</item>
+        <item>Fundamentals of Forensic Science</item>
+        <item>Introduction to Parks and Wildlife Conservation</item>
+        <item>Essential Skills in Bioscience</item>
+        <item>Environmental Sustainability</item>
+        <item>Physics for the Life Sciences</item>
+        <item>Biology: Form and Function</item>
+        <item>Chemistry in Our World</item>
+        <item>Recreational Fisheries Science</item>
+        <item>Life On An Evolving Planet</item>
+        <item>Biodiversity: A Global Perspective</item>
+        <item>Chemistry for the Professional Sciences</item>
+        <item>Marine and Coastal Ecosystems</item>
+        <item>Art and Society</item>
+        <item>Architecture Communication 01: Drawing</item>
+        <item>Architecture Communication 02: Modelling</item>
+        <item>Architecture Design Studio 01: Thoughtscapes</item>
+        <item>Architecture Design Studio 02: Matterscapes</item>
+        <item>Construction Finance</item>
+        <item>Contract Administration 1</item>
+        <item>Introduction to Building Information Modelling</item>
+        <item>Project Management 1</item>
+        <item>Sustainable Construction</item>
+        <item>Building Safety</item>
+        <item>Construction and Structures 1</item>
+        <item>Building Materials Science</item>
+        <item>Construction Projects 1</item>
+        <item>Production Design for Screen and Performance</item>
+        <item>Acting and Directing for Screen</item>
+        <item>The Art and Design of Sound</item>
+        <item>Creative Studio 2A</item>
+        <item>Creative Studio 2B</item>
+        <item>Freelancing in the Arts</item>
+        <item>Media Law and Ethics</item>
+        <item>Improvisation in Movement and Dance</item>
+        <item>Dance Beyond the Studio</item>
+        <item>Short Fiction Film</item>
+        <item>Documentary Production</item>
+        <item>Television Studio Production</item>
+        <item>Contemporary Topics in Screen Cultures</item>
+        <item>Animation Project</item>
+        <item>Cinematography</item>
+        <item>Experimental Screens</item>
+        <item>Postproduction</item>
+        <item>Screen Careers</item>
+        <item>Visual Effects and Motion Graphics</item>
+        <item>Alternative Imaging</item>
+        <item>Digital Imaging 2: Advanced</item>
+        <item>Darkroom Practices</item>
+        <item>Photographic Storytelling</item>
+        <item>Photographic Lighting</item>
+        <item>Performance, Image, Site</item>
+        <item>Adaptation and Solo Performance</item>
+        <item>Dramatic Plot, Story, Character and Theme for Performance</item>
+        <item>Theatre and Creative Technologies</item>
+        <item>Performance Laboratory (B): Performance Composition</item>
+        <item>Page to Stage: Major Performance Project</item>
+        <item>Issues in Criminal Justice</item>
+        <item>Criminology Theory</item>
+        <item>Crime, Victims and Justice</item>
+        <item>Crime, Media and Justice</item>
+        <item>Criminology in Action</item>
+        <item>Crime Prevention and Security</item>
+        <item>Crime, Surveillance and Technology</item>
+        <item>Contemporary Art Practice: Pluralism</item>
+        <item>Contemporary Art Practice: Abstraction</item>
+        <item>Materialising the Image: Visual Art and Photography Since 1989</item>
+        <item>Integrated Practice 1</item>
+        <item>Digital Practices and the Visual Arts</item>
+        <item>Modelling and the Visual Arts</item>
+        <item>Art and Technology</item>
+        <item>Creating 3D Characters</item>
+        <item>Animation, Performance and Capture</item>
+        <item>Interactive Animation Design Studio</item>
+        <item>Motion Graphics for Film and Advertising</item>
+        <item>Designing User Experience</item>
+        <item>Design Strategies</item>
+        <item>Professional Practice in Design</item>
+        <item>Digital Technologies Design Studio</item>
+        <item>Web Design and Interactivity</item>
+        <item>Branding Design</item>
+        <item>Visual Communication Design Studio</item>
+        <item>Cultural Studies of Sex and Gender</item>
+        <item>Arabic 2A</item>
+        <item>Arabic 2B</item>
+        <item>Chinese 2A</item>
+        <item>Chinese 2B</item>
+        <item>Chinese 2C</item>
+        <item>Chinese 2D</item>
+        <item>Critical Issues in Middle East Politics</item>
+        <item>Formal and Informal Indonesian A</item>
+        <item>Formal and Informal Indonesian B</item>
+        <item>Geographies of Heritage and Tourism</item>
+        <item>Sex and Gender in the British Empire</item>
+        <item>Australia and the Two World Wars</item>
+        <item>History: Interpreting the Past</item>
+        <item>The Holocaust</item>
+        <item>Conflict and Its Legacies in Modern Asia</item>
+        <item>African American History From Slavery to Black Lives Matter</item>
+        <item>Colonial Encounters: From Invasion to Federation</item>
+        <item>Government and Politics of the United States</item>
+        <item>Asylum Challenges in Australia and Asia</item>
+        <item>Politics of Development</item>
+        <item>Understanding Public Policy</item>
+        <item>Europes Political Transformation</item>
+        <item>Environmental Politics</item>
+        <item>Media and Politics: Campaign Strategies</item>
+        <item>Global Capitalism and Power</item>
+        <item>Australia and the Changing Asia-Pacific</item>
+        <item>Human Rights in World Politics</item>
+        <item>Great Power Relations</item>
+        <item>Key Concepts in International Relations</item>
+        <item>Study Tour: America and the International System</item>
+        <item>International Studies @ Work</item>
+        <item>Immersion Program: Japanese Politics, Society and Culture</item>
+        <item>Gender, Globalisation and Development</item>
+        <item>Australia Today: An Introduction to Australia</item>
+        <item>Art Direction and Visualisation</item>
+        <item>Copywriting and Ideation</item>
+        <item>Integrated Communication</item>
+        <item>Feature Writing</item>
+        <item>Audio Journalism</item>
+        <item>Journalism in Society</item>
+        <item>Video Journalism</item>
+        <item>Writing Modern Worlds</item>
+        <item>The Golden Age in Childrens Literature</item>
+        <item>Re-Imagining Literature for Young People</item>
+        <item>Fantasy Literature</item>
+        <item>Gender, Sex and Literature</item>
+        <item>Australian Literature</item>
+        <item>Shakespeare Today</item>
+        <item>Gamified Media</item>
+        <item>Quantified Media</item>
+        <item>Global Media</item>
+        <item>Media Relations Strategy</item>
+        <item>Ethical Communication and Citizenship</item>
+        <item>Public Relations Management</item>
+        <item>Spanish 2A</item>
+        <item>Introduction to the Spanish-Speaking World</item>
+        <item>Spanish 2B</item>
+        <item>The Role of the Editor</item>
+        <item>Creative Nonfiction: Inquiry, Integrity, Vulnerability</item>
+        <item>Designing Fictions</item>
+        <item>Scriptwriting: Character, Event, Consequence</item>
+        <item>Poetry: Events in Language</item>
+        <item>Writing for Games: Designing Quests and Characters</item>
+        <item>Writing for Young People</item>
+        <item>Individual Professional Project</item>
+        <item>Team Professional Project</item>
+        <item>Sociology of Health</item>
+        <item>Youth Culture and Identity</item>
+        <item>Religion and Social Change</item>
+        <item>International Migration and Multicultural Societies</item>
+        <item>Contemporary Social Research</item>
+        <item>Love, Sex and Relationships</item>
+        <item>Introduction to Logical Reasoning</item>
+        <item>Plato and Nietzsche</item>
+        <item>Freedom and Power: Existentialism and Beyond</item>
+        <item>Justice and Equality</item>
+        <item>Philosophy, Happiness, and the Good Life</item>
+        <item>Ethics in Global Society</item>
+        <item>Freud and Philosophy</item>
+        <item>Philosophies of Religion: Western, Asian, and Contemporary Inquiries</item>
+        <item>Philosophy, Art, Film</item>
+        <item>Buddhist Studies in India</item>
+        <item>Religion, Spirituality and Popular Culture</item>
+        <item>Mindfulness, Meditation, and Buddhism</item>
+        <item>Gender and Sexuality in Islam</item>
+        <item>Tibetan Buddhism</item>
+        <item>Contemporary Islam</item>
+        <item>Being Human (With the Nonhuman)</item>
+        <item>Urban Spaces, Global Places</item>
+        <item>Anthropology of Poverty and Development</item>
+        <item>Medical Anthropology</item>
+        <item>Myth and Ritual</item>
+        <item>Environmental Anthropology</item>
+        <item>Sport, Bodies, Action!</item>
+        <item>Sport in History</item>
+        <item>Music Studies: Earth, Wind and Fire</item>
+        <item>Mathematical Learning in the Early Years</item>
+        <item>Curriculum 3: Planning and Assessment for Teaching and Learning</item>
+        <item>Science 1: Science and Environmental Awareness for Young Children</item>
+        <item>Language and Literacy Development in Early Childhood</item>
+        <item>Creative Arts 2: Music and Visual Arts</item>
+        <item>Multiliterate Learners in Early Years Environments</item>
+        <item>Professional Practice 1 (3-5 Years)</item>
+        <item>Professional Practice 2 (3-5 Years)</item>
+        <item>Educational Psychology</item>
+        <item>Educators and Learners</item>
+        <item>Literacy, Numeracy and Education</item>
+        <item>Navigating the Visual World</item>
+        <item>Youth Health and Student Wellbeing</item>
+        <item>Sport and Exercise Practice</item>
+        <item>Student Health and Wellbeing</item>
+        <item>Communication and Diverse Learners</item>
+        <item>Contextualising Primary Humanities Education</item>
+        <item>Primary Science Education 1</item>
+        <item>Professional Experience in Health and Physical Education: Curriculum Study A</item>
+        <item>Understanding Learning, Learners and Classroom Relationships</item>
+        <item>Children and Mathematics: Developing Mathematical Concepts</item>
+        <item>Problem Solving, Modelling and Mathematical Applications</item>
+        <item>Classroom Relationships</item>
+        <item>Inclusive Services</item>
+        <item>Diversity At Work</item>
+        <item>Medical Radiation Science 2</item>
+        <item>Foundation Principles and Application of Medical Imaging 3</item>
+        <item>Medical Imaging Practice 3</item>
+        <item>Foundation Principles and Application of Medical Imaging 4</item>
+        <item>Medical Imaging Practice 4</item>
+        <item>Medical Nanotechnology</item>
+        <item>Molecular Diagnostics</item>
+        <item>Human Anatomy</item>
+        <item>Haematology and Immunology</item>
+        <item>Science of Vision 2</item>
+        <item>Ocular Function</item>
+        <item>Health and Vision Sciences 1</item>
+        <item>Principles and Practice of Optometry 1</item>
+        <item>Partnerships in Midwifery Care 3</item>
+        <item>Collaboration in Midwifery Care</item>
+        <item>Maternity Nursing: Pregnancy, Birth and the Newborn</item>
+        <item>Perspectives on Leadership and Management</item>
+        <item>Perspectives on Research Leadership</item>
+        <item>Quality Use of Medicines</item>
+        <item>International Nursing Study Tour</item>
+        <item>Community Nursing Practice</item>
+        <item>Mental Health and Illness</item>
+        <item>Quality and Safety: Nursing Practice 3</item>
+        <item>Psychology Research Methods (Introductory)</item>
+        <item>Child and Adolescent Development</item>
+        <item>The Human Mind</item>
+        <item>Human Social Behaviour</item>
+        <item>Introduction to Forensic Psychology</item>
+        <item>Preparing for Employment</item>
+        <item>Cross Cultural and Indigenous Psychology</item>
+        <item>Applied Health Psychology</item>
+        <item>Coaching and Counselling for Behaviour Change</item>
+        <item>Exercise Physiology</item>
+        <item>Biomechanics</item>
+        <item>Exercise Behaviour</item>
+        <item>Motor Learning and Development</item>
+        <item>Advanced Sport Coaching Theory and Practice</item>
+        <item>Integrated Human Physiology</item>
+        <item>Physical Activity Promotion and Evaluation</item>
+        <item>Childrens Physical Activity and Sport</item>
+        <item>Creating Sustainable Futures</item>
+        <item>Epidemiology and Biostatistics 1</item>
+        <item>Human Development and Healthy Families</item>
+        <item>Socio-Economic Status and Health</item>
+        <item>Health Communication</item>
+        <item>Australian Health Care System</item>
+        <item>Professional Practice</item>
+        <item>Epidemiology and Biostatistics 2</item>
+        <item>Population Health: A Research Perspective</item>
+        <item>Lifespan Nutrition</item>
+        <item>Food Safety</item>
+        <item>Food Analysis and Quality Assurance</item>
+        <item>Nutrition and Food Promotion</item>
+        <item>Nutritional Physiology</item>
+        <item>Sensory Evaluation of Food</item>
+        <item>Volunteering in Exercise and Nutrition Sciences</item>
+        <item>Impact of Health Conditions On Occupational Performance</item>
+        <item>Occupations in Childhood Development</item>
+        <item>Occupation Across the Lifespan</item>
+        <item>Neurological Structure, Function and Plasticity</item>
+        <item>Analysis of Occupational Performance</item>
+        <item>Human Rights and Social Justice: Values, Ethics and the Legal Context of Social Work</item>
+        <item>Placement Readiness: Preparing for Supervised Social Work Practice</item>
+        <item>Practice Skills: Social Work Theory and Practice E</item>
+        <item>Public Policy and Politics for Critical Social Workers</item>
+        <item>Self and Society</item>
+        <item>Social Work Research in Ethical and Political Contexts</item>
+        <item>Community Development: Social Work Theory and Practice D</item>
+        <item>Aboriginal Knowledges and Experiences: Historical Journeys-Contemporary Perspectives</item>
+        <item>Accounting Information Systems</item>
+        <item>Client Behaviour and Decision Making</item>
+        <item>Ethics for Financial Professionals</item>
+        <item>Financial Planning</item>
+        <item>Financial Accounting</item>
+        <item>Management Accounting</item>
+        <item>Integrated Reporting and Value Creation</item>
+        <item>Agribusiness Governance</item>
+        <item>Agribusiness Resource Management</item>
+        <item>Competition and Industry</item>
+        <item>The Global Economy</item>
+        <item>International Trade</item>
+        <item>Economic Strategy for Business</item>
+        <item>Business and the Environment</item>
+        <item>Analytical Methods in Economics and Finance</item>
+        <item>Money and Capital Markets</item>
+        <item>Business Finance</item>
+        <item>Business Requirements Analysis</item>
+        <item>Managing Data and Information</item>
+        <item>Making Sense of Information</item>
+        <item>Information Security, Governance and the Cloud</item>
+        <item>Professional Ethics in the Digital Age</item>
+        <item>Business Intelligence and Data Warehousing</item>
+        <item>Predictive Analytics</item>
+        <item>Decision Analytics</item>
+        <item>Corporations Law</item>
+        <item>Marketing Law</item>
+        <item>Human Rights Law</item>
+        <item>Torts</item>
+        <item>Commercial Law</item>
+        <item>Criminal Procedure</item>
+        <item>Personal Injuries Compensation Schemes</item>
+        <item>Superannuation Law</item>
+        <item>Alternative Dispute Resolution: Principles and Practice</item>
+        <item>Legal Practice and Ethics</item>
+        <item>Chinese Commercial Law</item>
+        <item>International Law</item>
+        <item>Indian Law</item>
+        <item>Chinese Commercial Law</item>
+        <item>International Alternative Dispute Resolution</item>
+        <item>Fundamentals of Human Resource Management</item>
+        <item>Human Resource Practice</item>
+        <item>Human Resource Development</item>
+        <item>Workplace Counselling and Negotiation</item>
+        <item>Retail Management</item>
+        <item>Services Marketing</item>
+        <item>Consumer Behaviour</item>
+        <item>Brand Management</item>
+        <item>Integrated Marketing Communications in the Digital Age</item>
+        <item>Team Dynamics</item>
+        <item>Organisational Behaviour</item>
+        <item>Entrepreneurship and Innovation</item>
+        <item>Business Logistics</item>
+        <item>Design Thinking</item>
+        <item>Creating and Managing Social Enterprises</item>
+        <item>Statutory Valuation</item>
+        <item>Property Investment</item>
+        <item>Property Economics</item>
+        <item>Property Management</item>
+        <item>Property Law and Practice</item>
+        <item>Sport in Society</item>
+        <item>Managing High Performance Sport</item>
+        <item>Brand Management (Tour)</item>
+        <item>Cultural Engagement</item>
+        <item>Measurement and Instrumentation</item>
+        <item>Power Engineering Design</item>
+        <item>Power Electronics</item>
+        <item>Distributed Generation System</item>
+        <item>Analogue and Digital Electronics</item>
+        <item>Embedded Systems Design</item>
+        <item>Structural Design</item>
+        <item>Machine Design</item>
+        <item>Thermodynamics</item>
+        <item>Stress and Failure Analysis</item>
+        <item>Fluid Mechanics</item>
+        <item>Engineering Modelling</item>
+        <item>Embedded System Design</item>
+        <item>Programming for Embedded Systems</item>
+        <item>Programming and Visualisation</item>
+        <item>Environmental Analysis</item>
+        <item>Geotechnical Investigation and Design</item>
+        <item>Environmental Health Engineering</item>
+        <item>Construction Engineering</item>
+        <item>Environmental Analysis</item>
+        <item>Road and Pavement Engineering</item>
+        <item>Creating Sustainable Futures</item>
+        <item>Networks and Communications</item>
+        <item>Software Engineering 2: Developing Internet-Of-Things Applications</item>
+        <item>Embedded Systems Development</item>
+        <item>Artificial and Computational Intelligence</item>
+        <item>User Centred Design</item>
+        <item>Software Engineering 1: Robotics Project</item>
+        <item>Data Structures and Algorithms</item>
+        <item>Professional Practice in Information Technology</item>
+        <item>Object-Oriented Development</item>
+        <item>Audio and Visual Production</item>
+        <item>Game Design</item>
+        <item>Game Development Patterns</item>
+        <item>Authoring of Interactive Media</item>
+        <item>Enterprise Network Construction</item>
+        <item>Enterprise Network Management</item>
+        <item>Cryptography</item>
+        <item>Computer Crime and Digital Forensics</item>
+        <item>Development for Virtual Reality</item>
+        <item>Cyber Security Management</item>
+        <item>Mathematical Methods for Information Modelling</item>
+        <item>Linear Algebra for Data Analysis</item>
+        <item>Communicating Science Ideas</item>
+        <item>Society and Environment</item>
+        <item>Landscape Evolution</item>
+        <item>Environmental Botany</item>
+        <item>Animal Diversity</item>
+        <item>Vertebrate Structure and Function</item>
+        <item>Cell Biology</item>
+        <item>Environmental Planning and Impact Assessment</item>
+        <item>Forensic Biology</item>
+        <item>Science and Society</item>
+        <item>Chemistry the Enabling Science</item>
+        <item>Principles of Physiology</item>
+        <item>Biochemistry</item>
+        <item>Introduction to Spectroscopic Principles</item>
+        <item>Organic Chemistry</item>
+        <item>Ecotourism and Environmental Interpretation</item>
+        <item>Bushfire Management</item>
+        <item>Aquaculture Nutrition and Seafood Quality</item>
+        <item>Indigenous Engagement: Natural Resource Management</item>
+        <item>Marine Invertebrates</item>
+        <item>Wildlife Ecology</item>
+        <item>Systems Physiology</item>
+        <item>Biochemical Metabolism</item>
+        <item>Water Quality and Ecological Health</item>
+        <item>Animal Behaviour</item>
+        <item>Global Environmental Placement</item>
+        <item>Environmental Team Based Research</item>
+        <item>Forensic Genomics</item>
+        <item>Introduction to Separation Science</item>
+        <item>Hydrology and Water Resources Management</item>
+        <item>Microbiology</item>
+        <item>Chemical Systems</item>
+        <item>Marine Microbiology</item>
+        <item>Biogeography</item>
+        <item>Marine Biology</item>
+        <item>Introduction to Geographic Information Systems</item>
+        <item>Analysing Marine Dynamics</item>
+        <item>Quantitative Marine Ecology</item>
+        <item>Marine Ecology</item>
+        <item>Research Methods and Data Analysis</item>
+        <item>Genetics and Genomics</item>
+        <item>Diversity of Fishes</item>
+        <item>Aquaculture and the Environment</item>
+        <item>Marine and Coastal Ecosystems</item>
+        <item>Marine Botany</item>
+        <item>International Marine Study Tour</item>
+        <item>Marine Vertebrates</item>
+        <item>Utopian Ideals in the Modern World</item>
+        <item>Austral-Asian Architecture</item>
+        <item>Architecture Design Studio 03: Earthscapes</item>
+        <item>Architecture Design Studio 04: Publicscapes</item>
+        <item>Building Economics</item>
+        <item>Building Measurement</item>
+        <item>Contract Administration 2</item>
+        <item>Project Management 2</item>
+        <item>Commercial Property Construction Studies</item>
+        <item>Construction and Structures 2</item>
+        <item>Building Environmental Studies</item>
+        <item>Construction Projects 2</item>
+        <item>Creative Careers and Contexts</item>
+        <item>Creative Studio 3A</item>
+        <item>Creative Studio 3B</item>
+        <item>Exhibition and Performance</item>
+        <item>Advertising: Desire, Consumption and the Attention Economy</item>
+        <item>Communication Research Practices</item>
+        <item>Communication and Creative Arts Internship A</item>
+        <item>Communication and Creative Arts Internship B</item>
+        <item>Communication and Creative Arts Study Tour</item>
+        <item>Communication Internship A: Placement</item>
+        <item>Communication Internship B: Career Development</item>
+        <item>Narrative Film and Television Project</item>
+        <item>Major Screen Project A - Development</item>
+        <item>Major Screen Project B - Production</item>
+        <item>The Australian Moving Image</item>
+        <item>Screen and Design Industry Project</item>
+        <item>Experimental Photography and Creative Practice</item>
+        <item>Photographic Lighting 2: Studio Lighting</item>
+        <item>New Worlds: Intersections of Art and Science</item>
+        <item>Folio and Professional Practice</item>
+        <item>Out of the Box: Theatre in Alternative Contexts</item>
+        <item>Ensemble Performance: Dramaturgy and Devising (A)</item>
+        <item>Ensemble Performance: Dramaturgy and Devising (B)</item>
+        <item>Out of the Ether: Devised Theatre</item>
+        <item>International and Comparative Criminal Justice</item>
+        <item>Criminology Research</item>
+        <item>Criminology Practicum</item>
+        <item>Crime, Surveillance and Society</item>
+        <item>Crime, Terrorism and Security</item>
+        <item>Careers in Criminal Justice</item>
+        <item>Contemporary Art Practice: Research</item>
+        <item>Artists Books Studio</item>
+        <item>Art in the Postdigital Age</item>
+        <item>Contemporary Art Practice: Production</item>
+        <item>Collaborative Design Project</item>
+        <item>Individual Design Portfolio</item>
+        <item>Design to Change the World</item>
+        <item>Theories of Sex and Gender</item>
+        <item>Advanced Arabic Language Skills</item>
+        <item>Introduction to Translation Skills</item>
+        <item>Arabic 3A</item>
+        <item>Arabic 3B</item>
+        <item>Chinese 3A</item>
+        <item>Chinese 3B</item>
+        <item>Chinese 3C</item>
+        <item>Chinese 3D</item>
+        <item>Chinese for Business Purposes A</item>
+        <item>Chinese for Business Purposes B</item>
+        <item>Advanced Chinese for Business Purposes C</item>
+        <item>Advanced Chinese for Business Purposes D</item>
+        <item>China: From Empire to Republic</item>
+        <item>Modern China: Liberation, Cultural Revolution and Reform</item>
+        <item>The Arab-Israeli Conflict</item>
+        <item>Middle East Study Tour</item>
+        <item>Indonesian Society Through Literature</item>
+        <item>Contemporary Issues in Indonesia</item>
+        <item>Professional and Academic Indonesian A</item>
+        <item>Professional and Academic Indonesian B</item>
+        <item>Indonesian for Business Purposes</item>
+        <item>History and Development of the Indonesian Language</item>
+        <item>Australian Urban Geography: National and International Perspectives</item>
+        <item>Australias Empire: Colonialism in Papua New Guinea</item>
+        <item>The French Revolution and the Struggle for Freedom</item>
+        <item>Making History</item>
+        <item>Researching Democracy</item>
+        <item>Political Parties and Social Movements</item>
+        <item>Activists Beyond Borders</item>
+        <item>Diplomacy and the United Nations</item>
+        <item>International Studies Capstone Portfolio</item>
+        <item>International Internship A</item>
+        <item>International Internship B</item>
+        <item>Transmedia Storytelling</item>
+        <item>International Advertising Campaigns</item>
+        <item>Creative Advertising Campaigns</item>
+        <item>Digital Media Entrepreneurship</item>
+        <item>Local Journalism</item>
+        <item>News Production 1</item>
+        <item>News Production 2</item>
+        <item>Global Literatures: Literary Interventions in the Present Situation</item>
+        <item>Gender, Sexuality and Texts for Young People</item>
+        <item>Childrens literature around the world</item>
+        <item>Classics and Trash</item>
+        <item>Reading the End of Nature</item>
+        <item>The Celebrity Industries: Star Images, Fan Cultures and Performance</item>
+        <item>Media Ecologies</item>
+        <item>Public Relations Campaigns and Practice</item>
+        <item>Communication Management in Asia</item>
+        <item>Lobbying, Advocacy and Public Opinion</item>
+        <item>Intermediate Spanish 3A</item>
+        <item>Cultures of Resistance in the Spanish - Speaking World</item>
+        <item>Advanced Spanish 3B</item>
+        <item>Selected Topics in Spanish</item>
+        <item>Advanced Topics in Spanish</item>
+        <item>Studio Writing Project</item>
+        <item>Experimental Writing Lab</item>
+        <item>Producing Digital Anthologies: From Concept to Publication</item>
+        <item>Pre-Production and Project Pitch</item>
+        <item>Designing Animated Worlds</item>
+        <item>Documentary Animation</item>
+        <item>Major Creative Project</item>
+        <item>Professional Practice Internship</item>
+        <item>Culture and Control: Boundaries and Identities</item>
+        <item>Social Theory Rewired: Power, Passion and Post Humanism</item>
+        <item>Sex, Crime and Justice in An Electronic Age</item>
+        <item>Media, Stories and Power</item>
+        <item>20th Century French Philosophy</item>
+        <item>Language and Reality</item>
+        <item>Religion, Rights and Governance</item>
+        <item>Anthropology of Crime and Violence</item>
+        <item>Cyborg Anthropology</item>
+        <item>Personalising Learning: a Transdisciplinary Approach</item>
+        <item>Arts Education Specialisation Study</item>
+        <item>Lifespan Development</item>
+        <item>Science 2: Science and Design Technology</item>
+        <item>Multiliterate Learners in Early Years and School Environments</item>
+        <item>Creative Learning Through the Arts</item>
+        <item>Integrated Science and Technology Education</item>
+        <item>Protective Education and Child Well-Being</item>
+        <item>Guiding Engaged, Resilient Learners</item>
+        <item>Transition Case Study</item>
+        <item>Teaching and Learning Languages in Primary Contexts</item>
+        <item>Introduction to the International Baccalaureate Primary Years Programme (IBPYP)</item>
+        <item>Multiliterate Learners in Middle Years Environments</item>
+        <item>Teaching EAL/D Students</item>
+        <item>Diversity, Language and Literacy</item>
+        <item>Professional Engagement 1 (Primary School 1)</item>
+        <item>Culture, Diversity and Participation in Education</item>
+        <item>Education and Humanitarian Development</item>
+        <item>Education, Communication and Technology</item>
+        <item>Primary Arts Education: Focussed Study</item>
+        <item>Classroom and Behaviour Management</item>
+        <item>Place, Culture and Teaching in a Global Context</item>
+        <item>Nutrition, Growth and Development for Health Educators</item>
+        <item>Health and Physical Education in the Curriculum</item>
+        <item>Teaching Sexuality and Relationship Education</item>
+        <item>Personalising Learning: a Transdisciplinary Approach</item>
+        <item>Introduction to Creative Arts Therapy Approaches and Practices</item>
+        <item>Sustainability, Inquiry and Action - a Humanities Perspective</item>
+        <item>Humanities Education Across the Primary Levels</item>
+        <item>Science, Technology, Engineering and Mathematics (STEM) Education</item>
+        <item>Digital Technologies: Programming and Robotics</item>
+        <item>Health and Physical Education: Curriculum Study B</item>
+        <item>Policy, Schooling and Society</item>
+        <item>Primary Mathematics Lesson Study</item>
+        <item>Teachers and Mathematics: Creating An Effective Classroom</item>
+        <item>Educating Students with Additional Needs</item>
+        <item>Curriculum and Pedagogy</item>
+        <item>Ethics: Frameworks and Decisions</item>
+        <item>Interdisciplinary Health Study Tour</item>
+        <item>Collaborative Practice in Healthcare</item>
+        <item>The Inclusive Practitioner</item>
+        <item>Human Rights and Advocacy</item>
+        <item>Principles of Advanced Modality Imaging 1</item>
+        <item>Medical Imaging Practice 5</item>
+        <item>Principles of Advanced Modality Imaging 2</item>
+        <item>Medical Imaging Practice 6</item>
+        <item>Principles of Pharmacology</item>
+        <item>Innovations in Medical Biotechnology</item>
+        <item>Emerging Infectious Diseases and Their Control</item>
+        <item>Therapeutic Development</item>
+        <item>Cell and Tissue Engineering</item>
+        <item>Optometric Clinical Skills Refresher</item>
+        <item>Health and Vision Sciences 2</item>
+        <item>Principles and Practice of Optometry 2</item>
+        <item>Health and Vision Sciences 3</item>
+        <item>Principles and Practice of Optometry 3</item>
+        <item>Midwifery Practice 1</item>
+        <item>Midwifery Practice 2</item>
+        <item>Complexities in Midwifery Care</item>
+        <item>Primary Midwifery Practice</item>
+        <item>Challenges in Infant Care</item>
+        <item>Child and Adolescent Health</item>
+        <item>Mental Health Promotion</item>
+        <item>Perioperative Nursing</item>
+        <item>The Older Person and Supportive Care</item>
+        <item>Chronic Illness and Supportive Care</item>
+        <item>Leadership and Clinical Governance</item>
+        <item>Perspectives on Educational Leadership</item>
+        <item>Comprehensive Nursing Practice</item>
+        <item>Rural and Remote Area Nursing</item>
+        <item>Psychology Research Methods (Intermediate)</item>
+        <item>Pathways Through Adulthood</item>
+        <item>The Social Psychology of Relationships</item>
+        <item>Personality</item>
+        <item>Psychopathology</item>
+        <item>Brain, Biology and Behaviour</item>
+        <item>Addiction</item>
+        <item>Research Methods Capstone</item>
+        <item>Psychology At Work (Internship)</item>
+        <item>Cognitive Neuroscience</item>
+        <item>Exercise Prescription for Fitness and Health</item>
+        <item>Exercise Programming</item>
+        <item>Exercise Metabolism</item>
+        <item>Physiology of Sport Performance</item>
+        <item>Issues in Sport Coaching</item>
+        <item>Cognitive and Behavioural Aspects of Sport and Exercise</item>
+        <item>Applied Sports Science 1</item>
+        <item>Exercise and Sports Science Practicum</item>
+        <item>Applied Sports Science 2</item>
+        <item>Physical Activity and Population Health</item>
+        <item>Exercise in Health and Disease</item>
+        <item>Sport Coaching and Development Practicum</item>
+        <item>Advanced Exercise Prescription</item>
+        <item>Clinical and Sport Biomechanics</item>
+        <item>Advanced Anatomy for Exercise Scientists</item>
+        <item>Nutrition for Exercise Scientists</item>
+        <item>Advanced Strength and Conditioning</item>
+        <item>Global Perspectives in Physical Activity and Exercise for Health</item>
+        <item>International Perspectives On Exercise and Sports Science</item>
+        <item>Politics, Policy and Health</item>
+        <item>Health Practicum</item>
+        <item>People, Health and Place</item>
+        <item>Contemporary Health Issues</item>
+        <item>Implementation and Evaluation</item>
+        <item>Population Health: A Research Perspective</item>
+        <item>Program Planning, Management and Evaluation</item>
+        <item>Integrated Learning for Practice</item>
+        <item>Health in Action: Planning for Sustainable Change</item>
+        <item>International Perspectives in Health and Social Development</item>
+        <item>Diet and Disease</item>
+        <item>Population Nutrition</item>
+        <item>Assessing Food Intake and Activity</item>
+        <item>Sports Nutrition: Theory and Practice</item>
+        <item>Food, Nutrition and Society</item>
+        <item>Food Policy and Regulation</item>
+        <item>Food and Nutrition Practicum</item>
+        <item>Food Manufacturing and Process Innovation</item>
+        <item>Consumer and Sensory Innovation of Food</item>
+        <item>Trends in Product Development</item>
+        <item>International Perspectives in Food and Nutrition</item>
+        <item>Evidence-Based Occupational Therapy Practice</item>
+        <item>Professional Practice Education A</item>
+        <item>Occupational Performance: Evaluation and Intervention 1</item>
+        <item>Occupational Performance: Evaluation and Intervention 2</item>
+        <item>Psychosocial Influences on Occupational Performance 1</item>
+        <item>Psychosocial Influences On Occupational Performance 2</item>
+        <item>Doing Critical Social Work: Social Work Theory and Practice F</item>
+        <item>Social Work Field Education A</item>
+        <item>Critical Social Policy</item>
+        <item>Applied Social Research in Ethical and Political Context</item>
+        <item>Audit and Assurance</item>
+        <item>Accounting and Society</item>
+        <item>Superannuation Planning</item>
+        <item>Advanced Financial Planning</item>
+        <item>Estate Planning and Insurance</item>
+        <item>Corporate Accounting</item>
+        <item>Global Challenges: Food, Water and Climate</item>
+        <item>Agribusiness Technology</item>
+        <item>Applied Agribusiness Project</item>
+        <item>Choice, Strategies and Dilemmas</item>
+        <item>Macroeconomics of Open Economies</item>
+        <item>Labour and Health Economics</item>
+        <item>Energy and Environment</item>
+        <item>Applied Econometrics for Economics and Finance</item>
+        <item>Economic Policy and Practice</item>
+        <item>Contemporary Issues in Trade and Development</item>
+        <item>National Economic Policy</item>
+        <item>International Banking and Finance</item>
+        <item>Corporate Finance</item>
+        <item>International Finance and Investment</item>
+        <item>Equities and Investment Analysis</item>
+        <item>Derivative and Fixed Income Securities</item>
+        <item>Treasury Operations</item>
+        <item>Accounting in International Contexts</item>
+        <item>Social Media and Mobile Strategies</item>
+        <item>Strategic Supply Chain Management</item>
+        <item>Business Process Management</item>
+        <item>Social Media Analytics and Data Driven Innovation</item>
+        <item>Artificial Intelligence for Business</item>
+        <item>Marketing Analytics</item>
+        <item>Project Management</item>
+        <item>Applied Business Project</item>
+        <item>Applied Business Project (Study Tour)</item>
+        <item>Principles of Income Tax Law</item>
+        <item>Applied Commercial Law Project</item>
+        <item>Business Tax Law</item>
+        <item>Employment Law</item>
+        <item>Sport and the Law</item>
+        <item>International Litigation and Dispute Settlement- Jessup Moot</item>
+        <item>Corporate Insolvency Law</item>
+        <item>Sentencing Law and Practice</item>
+        <item>Family Law</item>
+        <item>Constitutional Law</item>
+        <item>Land Law</item>
+        <item>Property</item>
+        <item>Financial Services Regulation</item>
+        <item>Health Law</item>
+        <item>Corporate Law</item>
+        <item>International Arbitration</item>
+        <item>Evidence</item>
+        <item>International Commercial Law</item>
+        <item>Venture Law Clinic</item>
+        <item>Legal Professional Practice</item>
+        <item>Workplace Law</item>
+        <item>Legal Internship</item>
+        <item>International Litigation and Dispute Settlement</item>
+        <item>International Financial Crime</item>
+        <item>Civil Procedure and Dispute Resolution</item>
+        <item>Migration and Refugee Law and Policy</item>
+        <item>Criminal Justice Study Tour</item>
+        <item>UK Law Study Tour</item>
+        <item>Strategic Human Resource Management</item>
+        <item>Employment Relations</item>
+        <item>International Human Resource Management</item>
+        <item>Change Management</item>
+        <item>Advanced Retail Management</item>
+        <item>Strategic Marketing</item>
+        <item>Marketing Insights</item>
+        <item>Business Marketing</item>
+        <item>Global Strategy and International Management</item>
+        <item>Applied Management Capabilities</item>
+        <item>Global Mindset and Citizenship</item>
+        <item>Event Management</item>
+        <item>Business Management Capstone</item>
+        <item>Business Ethics</item>
+        <item>Advanced Property Valuation</item>
+        <item>Advanced Property Analysis</item>
+        <item>Advanced Property Development</item>
+        <item>Sport Management Practicum</item>
+        <item>Sport Facility and Event Management</item>
+        <item>Sport Marketing</item>
+        <item>Sport Leadership and Governance</item>
+        <item>Planning for Sport Policy and Development</item>
+        <item>Industry Based Learning</item>
+        <item>Consultancy Experience</item>
+        <item>Entrepreneurship Experience</item>
+        <item>Internship</item>
+        <item>Project Management</item>
+        <item>Computer Aided Engineering</item>
+        <item>Product Development</item>
+        <item>Systems and Signals</item>
+        <item>Electrical Machines and Drives</item>
+        <item>Power Systems Protection and Relaying</item>
+        <item>Data Communication</item>
+        <item>Microcontroller System Design</item>
+        <item>Electro-Mechanical Systems</item>
+        <item>Artificial Intelligence for Autonomous Systems</item>
+        <item>Transmission and Distribution System Design</item>
+        <item>Power System Protection Design and Safety</item>
+        <item>Control Systems</item>
+        <item>Thermo-Fluid System Design</item>
+        <item>Industrial Control</item>
+        <item>Advanced Stress Analysis</item>
+        <item>Manufacturing</item>
+        <item>Dynamics of Machines</item>
+        <item>Mechatronic Design</item>
+        <item>Electromechanical Systems Design</item>
+        <item>Reinforced Concrete Design</item>
+        <item>Water Engineering Design</item>
+        <item>Air and Noise Pollution and Control</item>
+        <item>Theory of Structures</item>
+        <item>Hydrology and Hydraulics</item>
+        <item>Steel and Timber Structures</item>
+        <item>Water and Wastewater Treatment</item>
+        <item>Waste Management Systems</item>
+        <item>Reinforced Concrete Structures</item>
+        <item>Transportation Engineering</item>
+        <item>Geotechnical Engineering</item>
+        <item>Creating Sustainable Futures</item>
+        <item>Project Delivery</item>
+        <item>Android and iOS Mobile Programming</item>
+        <item>IT Placement</item>
+        <item>Data Mining and Machine Learning</item>
+        <item>Human Behaviour and Computer Interaction</item>
+        <item>Robotics Application Development</item>
+        <item>Software Engineering 3: Designing User-Centric Internet-Of-Things Application</item>
+        <item>System Design and Prototyping</item>
+        <item>Developing Client-Server Web Applications</item>
+        <item>Software Architecture and Scalability for Internet-Of-Things</item>
+        <item>Programming Paradigms</item>
+        <item>Optimisation and Constraint Programming</item>
+        <item>Enterprise, Entrepreneurship and Innovation</item>
+        <item>Advanced Topics in Artificial Intelligence</item>
+        <item>Advanced Algorithms</item>
+        <item>Cloud Systems</item>
+        <item>Cloud Application Development</item>
+        <item>Creative Production</item>
+        <item>Interactive Technology Application</item>
+        <item>Team Project (A) - Project Management and Practices</item>
+        <item>Team Project (B) - Execution and Delivery</item>
+        <item>Ethical Hacking</item>
+        <item>System Security</item>
+        <item>Augmented Reality Systems</item>
+        <item>Cyber Security Analytics</item>
+        <item>Complex Analysis</item>
+        <item>Optimization Modelling and Decision Analysis</item>
+        <item>Professional Practice</item>
+        <item>Wildlife Field Studies</item>
+        <item>Managing Environmental Projects</item>
+        <item>Geographic Information Systems for Marine Environments</item>
+        <item>Integrating Marine, Coastal and Catchment Management</item>
+        <item>Behavioural Ecology</item>
+        <item>Policy Instruments for Sustainability</item>
+        <item>Wildlife Conservation</item>
+        <item>Pest Plants and Animals</item>
+        <item>Chemical Hazards</item>
+        <item>Toxicology</item>
+        <item>Forensic Analysis and Interpretation</item>
+        <item>Research Project</item>
+        <item>Marine Animal Physiology</item>
+        <item>Analytical Chemistry</item>
+        <item>Australian Vegetation and Its Management</item>
+        <item>Synthetic and Medicinal Chemistry</item>
+        <item>Environmental Protection and Planning</item>
+        <item>Resource Efficiency and Waste Management</item>
+        <item>Molecular Biology Techniques</item>
+        <item>Landscape Ecology</item>
+        <item>Advanced Topics in Biomedical Science</item>
+        <item>Australian Vertebrates</item>
+        <item>Marine Ecotoxicology and Risk Assessment</item>
+        <item>Landscape Drones</item>
+        <item>Fisheries Science</item>
+        <item>Oceans, Coasts and Climate Change</item>
+        <item>Aquatic Animal Health and Reproduction</item>
+        <item>Materials Chemistry</item>
+        <item>Geographic Information Systems for Environmental Scientists</item>
+        <item>Medical Microbiology and Immunology</item>
+        <item>Electrochemistry for a Sustainable Future</item>
+        <item>Human Genetics and Genomics</item>
+        <item>Genomes and Bioinformatics</item>
+        <item>Ecological and Conservation Genetics</item>
+        <item>Risks to Healthy Environments</item>
+        <item>Fisheries Management</item>
+        <item>Oceanography</item>
+        <item>Molecular Basis of Disease</item>
+        <item>Freshwater Biology</item>
+        <item>Catchments to Coasts: Ecological Health</item>
+        <item>Marine Wildlife</item>
+        <item>Community Science Project</item>
+        <item>Asian Conservation and Environment Sustainability: International Study Tour</item>
+        <item>Disease Ecology and Epidemiology</item>
+        <item>Zoological Field Studies</item>
+        <item>Advanced Topics in Forensic Biology</item>
+        <item>Australian Invertebrates</item>
+        <item>Evolution</item>
+        <item>Human and Animal Navigation</item>
+        <item>Professional Practice in Bioscience</item>
+        <item>Palaeobiology</item>
+        <item>Sensory Neurobiology and Behaviour</item>
+        <item>Contemporary Architecture</item>
+        <item>Architecture Communication 03: Documentation</item>
+        <item>Architecture Design Studio 05: Hybridscapes</item>
+        <item>Architecture Design Studio 06: Superstudio</item>
+        <item>Building Measurement and Estimating</item>
+        <item>Project Planning and Scheduling</item>
+        <item>Project Management 3</item>
+        <item>Building Cost Planning</item>
+        <item>Built Environment Research Project</item>
+        <item>Built Environment Study Tour</item>
+        <item>Construction and Structures 3</item>
+        <item>Building Environmental Services</item>
+        <item>Industry Based Learning</item>
+        <item>Career Placement</item>
+        <item>Digital Forensics Analysis and Application (University Maryland Global Campus)</item>
+        <item>Advanced Information Systems Security (University Maryland Global Campus)</item>
+        <item>Cybersecurity in Business and Industry (University Maryland Global Campus)</item>
+        <item>Cybersecurity in Government Organizations (University Maryland Global Campus)</item>
+        <item>Cybersecurity Policy, Plans, and Programs (University Maryland Global Campus)</item>
+        <item>Secure Software Engineering (University Maryland Global Campus)</item>
+        <item>Secure Programming in the Cloud (University Maryland Global Campus)</item>
+        <item>Creative Studio A</item>
+        <item>Creative Studio B</item>
+        <item>Advanced Creative Research Project A</item>
+        <item>Advanced Creative Research Project B</item>
+        <item>Contemporary Debates in the Creative Arts</item>
+        <item>Methods and Design for Creative Arts Research</item>
+        <item>Transgressive Acts in Cinema, Art, Performance</item>
+        <item>Creating Your Arts Business</item>
+        <item>Communication and Creative Arts Internship</item>
+        <item>Law, Media and Communication</item>
+        <item>Writing with the Camera</item>
+        <item>Television Studio Production</item>
+        <item>Television Commercial Production</item>
+        <item>Fractured TV: Audiences, Formats, Technology and Regulation</item>
+        <item>Documentary Production Practice</item>
+        <item>Story Telling On Screen</item>
+        <item>Screen Internship</item>
+        <item>Screen Production Research Project</item>
+        <item>Screen Research Project Design and Script</item>
+        <item>Screen Production: Advanced Techniques</item>
+        <item>Screen Visual Effects</item>
+        <item>Digital Publishing</item>
+        <item>Design and Digital Skills</item>
+        <item>Designing for Web Environments</item>
+        <item>Design Thinking and Problem Solving</item>
+        <item>Strategic Branding and Design</item>
+        <item>Introduction to Digital Photography</item>
+        <item>Crime and Innovative Justice</item>
+        <item>Criminological Policy and Criminal Justice Practice</item>
+        <item>Critical Criminology Theory</item>
+        <item>Public Criminology and Criminological Knowledge</item>
+        <item>Cyber Crime and Digital Surveillance</item>
+        <item>Environmental Crime and Regulation</item>
+        <item>Populism and Policing Futures</item>
+        <item>The Carceral Society and Prison Futures</item>
+        <item>Global Crime, Prevention and Responses</item>
+        <item>Environmental Offenders and Victims</item>
+        <item>Communication Concepts</item>
+        <item>Applied Research Methods for Communication</item>
+        <item>Developing a Communication Research Project</item>
+        <item>Academic Research Project 1</item>
+        <item>Academic Research Project 2</item>
+        <item>Academic Research Project 3</item>
+        <item>Professional Research Project 1</item>
+        <item>Professional Research Project 2</item>
+        <item>Introduction to International and Community Development</item>
+        <item>The Humanitarian World</item>
+        <item>Humanitarian - Development Nexus</item>
+        <item>Evidence and Decision Making in Humanitarian Action</item>
+        <item>Food Security</item>
+        <item>Gender and Development</item>
+        <item>Humanitarian Settlement</item>
+        <item>Sustainability and Development</item>
+        <item>Disaster Risk Reduction and Management in Humanitarian Contexts</item>
+        <item>The Economic Development Record</item>
+        <item>Research Project Capstone</item>
+        <item>Introduction to International and Community Development</item>
+        <item>Community Development Theory and Practice A</item>
+        <item>Participatory and Community Development Practice</item>
+        <item>Non-Government Organisations and other Development Actors</item>
+        <item>Cross Cultural Communication and Practice</item>
+        <item>Arts and Sports-based Approaches to Community Development</item>
+        <item>Policy and Advocacy in Development Contexts</item>
+        <item>Private Sector Development: Corporations, Social-Enterprise and Microfinance</item>
+        <item>The Development Project Cycle</item>
+        <item>The Economic Development Record</item>
+        <item>Political Development Record</item>
+        <item>International and Community Development Internship</item>
+        <item>Why Research Matters</item>
+        <item>Humanitarian Settlement</item>
+        <item>Dynamics and Dilemmas of the Humanitarian Sector</item>
+        <item>Applied Humanitarian Assistance: From Theory to Practice</item>
+        <item>Fundamentals of Humanitarian Management</item>
+        <item>Disaster Risk Reduction and Management in Humanitarian Contexts</item>
+        <item>Project and Financial Management in Humanitarian Contexts</item>
+        <item>Humanitarian Assistance Internship</item>
+        <item>The Humanitarian World</item>
+        <item>Developing Humanitarian Leadership</item>
+        <item>Leadership in Humanitarian Operations</item>
+        <item>Demonstrating Strategic Leadership in Humanitarian Contexts</item>
+        <item>Management of Humanitarian Health Programs</item>
+        <item>Introduction to Heritage Planning</item>
+        <item>Heritage, Development and Tourism in the Asia-Pacific Region</item>
+        <item>Heritage Practice: Fundamentals</item>
+        <item>World Heritage and International Heritage Practice</item>
+        <item>Intangible Heritage</item>
+        <item>Cultural Landscapes</item>
+        <item>Virtual Heritage</item>
+        <item>Heritage in the Field</item>
+        <item>Cultural Heritage and Museums Studies Field School</item>
+        <item>Collections and Curatorship</item>
+        <item>Heritage Interpretation</item>
+        <item>Exhibitions</item>
+        <item>Applied Heritage Project</item>
+        <item>Understanding Significance</item>
+        <item>Leadership in Museums and Heritage Organisations</item>
+        <item>Museums, Heritage and Society</item>
+        <item>Contemporary Context of Cemetery Practice</item>
+        <item>Religious and Cultural Practices of Bereavement and Interment</item>
+        <item>Political Values and Public Policy</item>
+        <item>Making Policy</item>
+        <item>Policy Lessons From Overseas</item>
+        <item>Challenges to Democratic Governance</item>
+        <item>Intergovernmental Relations</item>
+        <item>Governance and Accountability</item>
+        <item>Managing Public Expenditure</item>
+        <item>Political Communication</item>
+        <item>Rethinking Democracy</item>
+        <item>Political Competition</item>
+        <item>China and the World</item>
+        <item>The United Nations and International Organisation</item>
+        <item>Australian Foreign Policy</item>
+        <item>International Conflict Analysis</item>
+        <item>Transnational Activism and Policy</item>
+        <item>Human Rights in World Politics</item>
+        <item>Global Political Economy</item>
+        <item>Human Security in Global Politics</item>
+        <item>Terrorism in International Politics</item>
+        <item>International Relations Theory</item>
+        <item>Contemporary International Politics</item>
+        <item>Security and Strategy</item>
+        <item>Regionalism in International Politics</item>
+        <item>International Relations Internship</item>
+        <item>Research Paper</item>
+        <item>Major Thesis A</item>
+        <item>Major Thesis B</item>
+        <item>Minor Thesis A</item>
+        <item>Minor Thesis B</item>
+        <item>Research Design</item>
+        <item>Qualitative Research</item>
+        <item>Quantitative Research</item>
+        <item>Social Media Collaboration</item>
+        <item>Making Sense of Communities Online</item>
+        <item>Digital Curation</item>
+        <item>Social Media Content Creation</item>
+        <item>Multimedia Journalism</item>
+        <item>Broadcast Journalism</item>
+        <item>International News</item>
+        <item>Investigative and Narrative Journalism</item>
+        <item>Feature Writing</item>
+        <item>Newsroom Practice</item>
+        <item>Retelling Myths and Tales: Classic to Contemporary</item>
+        <item>Criticism of Literature for Children: A Variety of Approaches</item>
+        <item>Vision and Revision: Short Stories Now</item>
+        <item>Historical Fiction</item>
+        <item>The Picture Book: Reading and Writing</item>
+        <item>Writing Fiction for Young Adults</item>
+        <item>Texts for Young Adults</item>
+        <item>Sex, the Body, and American Poetry</item>
+        <item>Literary Narratives</item>
+        <item>Foundations in Narrative Theory</item>
+        <item>Writing and Film</item>
+        <item>Public Relations Campaigns</item>
+        <item>Public Relations Writing and Tactics</item>
+        <item>Digital Marketing</item>
+        <item>Reputation Management: Crisis, Risk and Responsibility</item>
+        <item>Marketing Communication</item>
+        <item>Public Relations, Activism and Social Change</item>
+        <item>Public Relations Theory and Practice</item>
+        <item>Advertising Theory and Practice</item>
+        <item>Public Affairs and Opinion Formation</item>
+        <item>Writing Manifestos</item>
+        <item>Creative Nonfiction: the Personal Essay</item>
+        <item>Fiction Writing: Story, Structure and Starting Out</item>
+        <item>Script Writing</item>
+        <item>Experiments in Writing</item>
+        <item>Editing</item>
+        <item>Publishing</item>
+        <item>Foundations in Professional and Creative Writing</item>
+        <item>Critical and Creative Research Methods</item>
+        <item>Minor Research Project</item>
+        <item>Masters Research Project A</item>
+        <item>Masters Research Project B</item>
+        <item>Masters Research Project C</item>
+        <item>Masters Research Project D</item>
+        <item>Masters Research Theory A</item>
+        <item>Anthropology of Poverty and Development</item>
+        <item>Arts Education Curriculum Inquiry</item>
+        <item>Arts Education Curriculum Inquiry Senior Years</item>
+        <item>Arts Education Critical Inquiry</item>
+        <item>Arts Education Research Inquiry Senior Years</item>
+        <item>Arts Education Curriculum Inquiry 2</item>
+        <item>Arts Education Curriculum Inquiry Senior Years 2</item>
+        <item>Early Childhood Language, Literacy and Mathematics</item>
+        <item>Learning in and Through the Arts in Early Years</item>
+        <item>Early Childhood STEM</item>
+        <item>Quality in Early Years Programs: Advocacy and Leadership</item>
+        <item>Early Childhood Pedagogy, Curricula and Contexts</item>
+        <item>Language and Literacy</item>
+        <item>Science and Environmental Awareness</item>
+        <item>Young Childrens Mathematics</item>
+        <item>English Curriculum Inquiry</item>
+        <item>English Curriculum Inquiry Senior Years</item>
+        <item>An Inquiry Based Approach to Leading with Data and Evidence</item>
+        <item>Education Governance and Policy</item>
+        <item>Education Leadership in Changing Times</item>
+        <item>Education Leadership Development and Capacity Building</item>
+        <item>Applied Learning: Theories and Practice</item>
+        <item>Youth Cultures and Learning Pathways</item>
+        <item>Assessment Frameworks and Equity in the Workplace</item>
+        <item>Middle Years Teaching Strategies (Years 5-9)</item>
+        <item>Later Years Teaching Strategies (Years 10-12)</item>
+        <item>Teaching Strategies for Vocational Pathways</item>
+        <item>Teaching Literacy and Numeracy</item>
+        <item>Indigenous Students and Cultural Diversity</item>
+        <item>Teaching Aboriginal and Torres Strait Islander Students</item>
+        <item>Becoming a Teacher in the 21st Century: From Novice to Graduate</item>
+        <item>Teaching in the 21st Century: Transition to Practice</item>
+        <item>Youth Identities and Diversities</item>
+        <item>Orientation to the Teaching Profession</item>
+        <item>Introduction to Teaching: Middle Years</item>
+        <item>Introduction to Teaching: Later Years</item>
+        <item>Child Protection</item>
+        <item>Creativity and the Arts</item>
+        <item>Social, Physical and Emotional Health and Wellbeing</item>
+        <item>Primary Health and Physical Education Pedagogies</item>
+        <item>Cloud and Online Learning Practice</item>
+        <item>Research Design Development and Method</item>
+        <item>Research Paper A</item>
+        <item>Research Paper B</item>
+        <item>Minor Thesis A</item>
+        <item>Minor Thesis B</item>
+        <item>Independent Research Project for Professional Practice</item>
+        <item>Theory and Methodology in Education Research</item>
+        <item>Digital Learning, Design and Assessment</item>
+        <item>Contextualising Learning and Teaching in Higher Education</item>
+        <item>HDR Supervision</item>
+        <item>The Scholarship of Learning and Teaching</item>
+        <item>Designing, Teaching and Assessment in Adult, Vocational Education and Training</item>
+        <item>Contextualising Learning and Teaching in Adult, Vocational Education and Training</item>
+        <item>Designing and Teaching Student-Centred Learning Programs in Higher Education</item>
+        <item>Designing and Implementing Assessment for Learning in Higher Education</item>
+        <item>Establishing Effective and Inclusive Learning Environments in Higher Education</item>
+        <item>Transforming Professional Teaching Practice Through Scholarship in Higher Education</item>
+        <item>Teaching: Promoting Successful Learning</item>
+        <item>Planning and Assessment with Diverse Learners</item>
+        <item>Becoming a Professional Educator</item>
+        <item>Language, Literacy and Learning</item>
+        <item>Numeracy, Social Justice and New Pedagogies</item>
+        <item>Health, Wellbeing and Inclusive Education</item>
+        <item>Contemporary Issues in International Education</item>
+        <item>Professional Learning Theory and Practice in International Education</item>
+        <item>Governance and Capacity Building in International Education</item>
+        <item>Internationalising Curriculum in Education</item>
+        <item>Promoting Student Wellbeing</item>
+        <item>Personalised Program Planning</item>
+        <item>Advanced Inclusive Practice</item>
+        <item>Practicum: Specialist Inclusive Education</item>
+        <item>Effective Classroom Management: Positive Learning Environments</item>
+        <item>Practicum: Special Educational Needs</item>
+        <item>New and Traditional Literacies and Diverse Student Needs</item>
+        <item>History Curriculum Inquiry</item>
+        <item>History Curriculum Inquiry Senior Years</item>
+        <item>Humanities Curriculum Inquiry</item>
+        <item>Humanities Curriculum Inquiry Senior Years</item>
+        <item>Humanities Critical Inquiry 7 - 10</item>
+        <item>Humanities Research Inquiry Senior Years</item>
+        <item>Inquiry Learning Through the International Baccalaureate (PYP)</item>
+        <item>The Inquiring Child: the Role of Play in Childrens Learning</item>
+        <item>Assessing and Documenting Learning in the Global Early Years Context</item>
+        <item>Planning for Inquiry Learning: Professional Practice and Portfolio</item>
+        <item>Personalising Learning</item>
+        <item>Teaching and Learning in the Inclusive Classroom</item>
+        <item>Designing Engagement for Learning</item>
+        <item>Supporting Communication in Inclusive Classrooms</item>
+        <item>Education Business Planning and Capacity Building</item>
+        <item>Governance in Education</item>
+        <item>Leading Strategy and Change in Education</item>
+        <item>Understanding Funding and Finance for Educational Outcomes</item>
+        <item>Theories and Models of Leadership: Introduction</item>
+        <item>Leadership Communities of Learners</item>
+        <item>Researching the Leadership of Teaching</item>
+        <item>Leadership of Teaching Profile</item>
+        <item>Primary Literacy</item>
+        <item>Primary Mathematical Development</item>
+        <item>Primary Humanities</item>
+        <item>Arts, Humanities and Sustainability in Primary Education</item>
+        <item>Internship</item>
+        <item>Orientation to the Teaching Profession</item>
+        <item>Building Capacity in Professional Experience</item>
+        <item>Reflecting On Practice in Professional Experience</item>
+        <item>Curriculum Inquiry in Professional Experience: Education and Care Birth to Three</item>
+        <item>Reflecting On Practice in Professional Experience</item>
+        <item>Orientation to the Teaching Profession</item>
+        <item>Building Capacity in Professional Experience</item>
+        <item>Reflecting On Practice in Professional Experience</item>
+        <item>Curriculum Inquiry in Professional Experience</item>
+        <item>Reflecting On Practice in Professional Experience</item>
+        <item>Orientation to the Teaching Profession</item>
+        <item>Building Capacity in Professional Experience</item>
+        <item>Reflecting On Practice in Professional Experience</item>
+        <item>Reflecting On Practice in Professional Experience</item>
+        <item>Orientation to the Teaching Profession</item>
+        <item>Building Capacity in Professional Experience</item>
+        <item>Reflecting On Practice in Professional Experience</item>
+        <item>Curriculum Inquiry in Professional Experience</item>
+        <item>Reflecting On Practice in Professional Experience</item>
+        <item>Orientation to the Teaching Profession</item>
+        <item>Building Capacity in Professional Experience</item>
+        <item>Reflecting On Practice in Professional Experience</item>
+        <item>Curriculum Inquiry in Professional Experience</item>
+        <item>Reflecting On Practice in Professional Experience</item>
+        <item>Orientation to the Teaching Profession</item>
+        <item>Orientation to the Teaching Profession</item>
+        <item>Primary Science and Technology Education</item>
+        <item>Health Curriculum Inquiry</item>
+        <item>Health Curriculum Inquiry Senior Years</item>
+        <item>Teaching Mathematics Successfully</item>
+        <item>Problem Solving and Modelling</item>
+        <item>Mathematics Curriculum Inquiry</item>
+        <item>Mathematics Curriculum Inquiry Senior Years</item>
+        <item>Exploring Space and Number</item>
+        <item>Education and Development of Exceptional Learners</item>
+        <item>Psychology Curriculum Study 2</item>
+        <item>Psychology in Education</item>
+        <item>Psychology Curriculum Inquiry Senior Years</item>
+        <item>Sustainability and Environmental Education</item>
+        <item>Environmental Science Curriculum Inquiry Senior Years</item>
+        <item>Science Curriculum Inquiry</item>
+        <item>Physics Curriculum Inquiry Senior Years</item>
+        <item>General Science Curriculum Inquiry Senior Years</item>
+        <item>Biology Curriculum Inquiry Senior Years</item>
+        <item>Chemistry Curriculum Inquiry Senior Years</item>
+        <item>Pedagogy for EAL Classrooms</item>
+        <item>TESOL Method</item>
+        <item>Linguistics for Second Language Teachers</item>
+        <item>Intercultural Communication in Language Classrooms</item>
+        <item>Innovation in Language Curriculum</item>
+        <item>Pedagogic Grammar</item>
+        <item>Reflective Practice in EAL and Languages Classrooms</item>
+        <item>Language Teaching in Practice</item>
+        <item>Multilingualism and Multilingual Education in Global Contexts</item>
+        <item>Teaching and Learning in Languages Classrooms</item>
+        <item>Learning An Additional Language</item>
+        <item>Discourse Analysis for Language Teaching</item>
+        <item>Learning Global English in Diverse Social Contexts</item>
+        <item>Language Testing and Assessment</item>
+        <item>Internationalising the Curriculum</item>
+        <item>CLIL Pedagogy</item>
+        <item>Knowledge, Learning and Learners in STEM</item>
+        <item>Designing Contemporary STEM education programs</item>
+        <item>Researching your practice as a STEM Educator and Leader</item>
+        <item>Supporting and Leading Development of Communities of STEM Practice</item>
+        <item>Literacy and Numeracy Across the Curriculum</item>
+        <item>Curriculum and Assessment Design</item>
+        <item>Professional Learning and Development</item>
+        <item>Social Justice and Difference</item>
+        <item>New Technologies in Education and Training</item>
+        <item>Advanced Materials Characterisation</item>
+        <item>Collaborative Practice in Healthcare</item>
+        <item>Disability and Inclusion: Contemporary Theory and Lived Experience</item>
+        <item>Planning for Inclusion Across the Life Course</item>
+        <item>Determinants of Health and Wellbeing in the Lives of People with Disability</item>
+        <item>Community Capacity Building - Theory and Practice for Inclusion</item>
+        <item>Inclusive Design and Technology</item>
+        <item>Disability Research - Inclusive Approaches</item>
+        <item>Fundamentals of Health Informatics</item>
+        <item>Hospital Financing</item>
+        <item>Fundamentals of Digital Health in Hospitals</item>
+        <item>Hospital Operations</item>
+        <item>Health Management Practicum</item>
+        <item>Health Law and Ethics</item>
+        <item>Healthcare Operations</item>
+        <item>Clinical Governance</item>
+        <item>Hospital Clinical Governance</item>
+        <item>Agricultural Health and Medicine</item>
+        <item>Healthy and Sustainable Agricultural Communities</item>
+        <item>Optometric Clinical Competency Preparation</item>
+        <item>Advanced Optometric Studies 1</item>
+        <item>Advanced Optometric Studies 2</item>
+        <item>Community Optometry 1</item>
+        <item>Community Optometry 2</item>
+        <item>Pathophysiology of Diabetes</item>
+        <item>Management of Diabetes</item>
+        <item>Learning and Teaching for Health Professionals</item>
+        <item>Diabetes in Social and Psychological Contexts</item>
+        <item>The Woman During Pregnancy, Labour and Birth</item>
+        <item>The Woman and Newborn Infant</item>
+        <item>Contexts of Midwifery Practice</item>
+        <item>Clinical Challenges in Maternity Care</item>
+        <item>Clinical Challenges in Infant Care</item>
+        <item>Clinical Leadership and Collaborative Practice</item>
+        <item>International Nursing and Midwifery Study Tour</item>
+        <item>Ethical Dimensions in Nursing and Midwifery</item>
+        <item>Leadership and Management in Nursing</item>
+        <item>Research in Nursing and Midwifery</item>
+        <item>Advanced Health Assessment and Diagnostic Reasoning</item>
+        <item>Clinical Research Methods</item>
+        <item>Clinical Excellence in Nurse Practitioner Practice</item>
+        <item>Core Principles of Intraoperative Nursing Care</item>
+        <item>Principles of Complex Perianaesthesia Nursing Care</item>
+        <item>Principles of Complex Intraoperative Nursing Care</item>
+        <item>Patient Safety and Risk Management</item>
+        <item>Inquiry Into Specialty Nursing Practice</item>
+        <item>Advanced Physiology and Patient Assessment</item>
+        <item>Core Principles of Care for the Critically Ill Patient</item>
+        <item>Core Principles of Perianaesthesia Nursing Care</item>
+        <item>Nursing Research Thesis A</item>
+        <item>Nursing Research Thesis B</item>
+        <item>Nursing Research Thesis C</item>
+        <item>Nursing Research Thesis D</item>
+        <item>Intensive Care Nursing 1</item>
+        <item>Cardiac Care Nursing 1</item>
+        <item>Emergency Care Nursing 1</item>
+        <item>Critical Care Nursing 1</item>
+        <item>Facilitating Clinical Learning</item>
+        <item>Healthcare in Low Resource/Complex Environments</item>
+        <item>Healthcare Management of Vulnerable Populations</item>
+        <item>Intensive Care Nursing 2</item>
+        <item>Cardiac Care Nursing 2</item>
+        <item>Emergency Care Nursing 2</item>
+        <item>Critical Care Nursing 2</item>
+        <item>Quality and Safety in Medication Management</item>
+        <item>Therapeutic Medication Management</item>
+        <item>Advanced Concepts in Specialty Nursing Practice</item>
+        <item>Advanced Clinical Assessment</item>
+        <item>Clinical Placement and Case Analysis 1</item>
+        <item>Advanced Clinical Research Methods</item>
+        <item>Psychological Intervention 2</item>
+        <item>Clinical Placement and Case Analysis 2</item>
+        <item>Psychological Intervention 3</item>
+        <item>Clinical Placement and Case Analysis 3</item>
+        <item>Studies in Psychopathology</item>
+        <item>Psychological Assessment</item>
+        <item>Organisational Development and Change Management</item>
+        <item>Facilitation, Training and Evaluation in Organisations</item>
+        <item>Organisational Placement 1</item>
+        <item>Applied Methodology for Organisational Analysis</item>
+        <item>Organisational Placement 2</item>
+        <item>An Introduction to Organisational Psychology</item>
+        <item>Organisational Intervention Strategies and Skills</item>
+        <item>Organisational Placement 3</item>
+        <item>Occupational Health and Wellbeing</item>
+        <item>Research Methods in Psychology C</item>
+        <item>Psychological Assessment in Organisations</item>
+        <item>Issues in Professional Organisational Psychology</item>
+        <item>Research Thesis A</item>
+        <item>Research Thesis B</item>
+        <item>Psychology Research Methods (Introductory)</item>
+        <item>Child and Adolescent Development</item>
+        <item>The Human Mind</item>
+        <item>Human Social Behaviour</item>
+        <item>Brain, Biology and Behaviour</item>
+        <item>Issues in Professional Psychology</item>
+        <item>Psychological Intervention 1</item>
+        <item>Biological and Neuropsychological Perspectives on Disorder</item>
+        <item>Psychological Assessment</item>
+        <item>Psychology Research Methods (Intermediate)</item>
+        <item>Research Thesis A</item>
+        <item>Research Thesis C</item>
+        <item>Psychopathology</item>
+        <item>Personality</item>
+        <item>Research Thesis B</item>
+        <item>Research Thesis C</item>
+        <item>Research Thesis D</item>
+        <item>Leadership Assessment, Development and Coaching</item>
+        <item>Client-Centred Skills in Practice</item>
+        <item>Psychology A: Fundamentals of Human Behaviour</item>
+        <item>Psychology Research Methods (Advanced)</item>
+        <item>Psychology B: Individual and Social Development</item>
+        <item>Research Project A</item>
+        <item>Research Project B</item>
+        <item>Practice and Ethics in Professional Psychology</item>
+        <item>Psychological Assessment in Practice</item>
+        <item>Psychological Interview and Intervention Strategies</item>
+        <item>Professional Practicum A</item>
+        <item>Psychological Practice Across the Lifespan</item>
+        <item>Working with Diverse Populations</item>
+        <item>Applied Methods for Professional Practice</item>
+        <item>Professional Practicum B</item>
+        <item>Exercise Physiology for Neurological and Neuromuscular Disease</item>
+        <item>Mental Health and Exercise Behaviour</item>
+        <item>Exercise Physiology for Metabolic Disease</item>
+        <item>Exercise Physiology for Cardiopulmonary Disease</item>
+        <item>Research in Clinical Exercise Physiology</item>
+        <item>Exercise Physiology for Musculoskeletal Injury and Disease</item>
+        <item>Exercise Physiology Across the Lifespan</item>
+        <item>Pre Clinical Practice 1</item>
+        <item>Pre Clinical Practice 2</item>
+        <item>Clinical Practicum 1</item>
+        <item>Clinical Practicum 2</item>
+        <item>Clinical Practicum 3</item>
+        <item>Athlete and Program Development in High Performance Sport</item>
+        <item>High Performance Management in Sport</item>
+        <item>The Scientific Process for Sports Scientists</item>
+        <item>Data Analysis and Program Evaluation for Sports Scientists</item>
+        <item>Strength and Conditioning Methods for Athletes</item>
+        <item>Factors Influencing Training Design for Sport</item>
+        <item>Sport Performance Analysis</item>
+        <item>Advanced Sport Performance Analysis</item>
+        <item>Applied Sport Science Project - Part 1</item>
+        <item>Applied Sport Science Project - Part 2</item>
+        <item>Professional Practice</item>
+        <item>Principles and Practice of Public Health</item>
+        <item>Contemporary Health Issues and Policies</item>
+        <item>Health Promotion</item>
+        <item>Health Communication</item>
+        <item>Needs Assessment and Health Program Planning</item>
+        <item>Health and Social Impact Assessment</item>
+        <item>Alcohol, Tobacco, and other Drugs</item>
+        <item>Qualitative Health Research</item>
+        <item>Health Economics 1</item>
+        <item>Economic Evaluation 1</item>
+        <item>Healthy Cities and Urban Communities</item>
+        <item>Research Literacy for Health Practice</item>
+        <item>Health Equity and Human Rights</item>
+        <item>Minor Project A</item>
+        <item>Minor Project B</item>
+        <item>Major Project A</item>
+        <item>Major Project B</item>
+        <item>Community Consultation and Participation</item>
+        <item>Global Health Policy and Planning</item>
+        <item>Epidemiology 1</item>
+        <item>Health Program Evaluation</item>
+        <item>Biostatistics 1</item>
+        <item>Biostatistics 2</item>
+        <item>Epidemiology 2</item>
+        <item>Postgraduate Health Practicum</item>
+        <item>International Perspectives in Health and Social Development</item>
+        <item>Health Technology Assessment 1</item>
+        <item>Resource Allocation and Priority Setting</item>
+        <item>Financing Health Care</item>
+        <item>Economic Evaluation - Theory and Practice</item>
+        <item>Health Technology Assessment 2</item>
+        <item>Economics and Health Policy Analysis</item>
+        <item>Economic Modelling</item>
+        <item>Health Economics in a Global Context</item>
+        <item>Comparative Health Systems</item>
+        <item>Principles of Nutrition</item>
+        <item>Lifespan Nutrition</item>
+        <item>Diet and Disease</item>
+        <item>Public Health Nutrition</item>
+        <item>Food Policy and Public Health</item>
+        <item>Nutrition Promotion</item>
+        <item>Sports Nutrition</item>
+        <item>Food, Nutrition and Behaviour</item>
+        <item>Systems Thinking in Public Health Nutrition</item>
+        <item>Understanding Human Nutrition Research Studies</item>
+        <item>Assessment Methods for Nutrition and Physical Activity Research</item>
+        <item>Obesity Prevention</item>
+        <item>Essentials of Food Science</item>
+        <item>International Nutrition</item>
+        <item>Research for Evidence Based Dietetic Practice</item>
+        <item>Postgraduate Nutrition Practicum</item>
+        <item>Food Service Management</item>
+        <item>Nutrition for Healthy Ageing</item>
+        <item>Principles of Dietetics</item>
+        <item>Community Nutrition</item>
+        <item>Nutritional Issues from Early Childhood to Adolescence</item>
+        <item>Clinical Dietetic Practice</item>
+        <item>Biochemistry and Physiology for Human Nutrition</item>
+        <item>Nutrition Research Project Part A</item>
+        <item>Nutrition Research Project Part B</item>
+        <item>Research Practice in Human Nutrition</item>
+        <item>Dietary Modification to Improve Health</item>
+        <item>Professional Practice for Dietetics</item>
+        <item>International Perspectives in Food and Nutrition</item>
+        <item>Therapeutic Use of Self</item>
+        <item>Foundations of Play Therapy</item>
+        <item>Child Attachment Environment and Trauma</item>
+        <item>Engaging Children in Play Using Directive Approaches</item>
+        <item>Assessment and Measurement in Play Abilities</item>
+        <item>Childhood Developmental Neuroscience and Psychopathology</item>
+        <item>Professional Practice and Behaviour</item>
+        <item>Humanistic Play Therapy</item>
+        <item>Systemic Play Therapy</item>
+        <item>Play Therapy Research Thesis</item>
+        <item>Research Project Part A</item>
+        <item>Research Project Part B</item>
+        <item>Australian Social Work in an International Context</item>
+        <item>Understanding Care and Risk</item>
+        <item>Becoming a Social Worker</item>
+        <item>Reconstructing Professional Practice</item>
+        <item>Challenging Poverty and Social Exclusion</item>
+        <item>Addressing Violence and Abuse</item>
+        <item>Practicing Social Work with Communities and Groups</item>
+        <item>Responding to Trauma, Grief and Loss</item>
+        <item>Professional Practice in Social Work A</item>
+        <item>Professional Practice in Social Work B</item>
+        <item>Interpreting Cultural Landscapes</item>
+        <item>Exploring Collaborative Land Management</item>
+        <item>Environmental Policy Issues - Land, Water and Sea</item>
+        <item>New Media and the Environment</item>
+        <item>Strategic Planning and Project Management for Country</item>
+        <item>Research and Communication for Country</item>
+        <item>Professional Practice for Land Management</item>
+        <item>Facilitation Skills for Land Management</item>
+        <item>Standpoint Theory in Indigenous Research</item>
+        <item>Indigenous Research: Ways of Valuing and Being</item>
+        <item>Indigenous Research: Ways of Knowing and Doing</item>
+        <item>Indigenous Knowledge Modalities in Research</item>
+        <item>Theories and Debates in Indigenous Knowledges: Sites of Struggle</item>
+        <item>Designing An Indigenous Research Project</item>
+        <item>Research Project A</item>
+        <item>Research Project B</item>
+        <item>Managing Growth of Small Medium Enterprises</item>
+        <item>Estate Planning and Risk Management Strategies</item>
+        <item>Accounting for Management</item>
+        <item>Corporate Auditing</item>
+        <item>Financial Accounting</item>
+        <item>Introductory Accounting</item>
+        <item>Financial Accounting I</item>
+        <item>Superannuation and Retirement Planning</item>
+        <item>Financial Accounting II</item>
+        <item>Advanced Accounting Principles and Practice</item>
+        <item>Strategic Business Reporting</item>
+        <item>Financial Planning Development</item>
+        <item>Financial Behaviour and Decision Making</item>
+        <item>Strategic Management Accounting</item>
+        <item>Financial Planning and Economic Fundamentals</item>
+        <item>Administration of Trusts and Estates</item>
+        <item>Professional Research and Analysis</item>
+        <item>Enterprise Risk Management</item>
+        <item>Governance and Fraud</item>
+        <item>Advanced Performance Management</item>
+        <item>Advanced Audit and Assurance</item>
+        <item>Integrated Reporting and Value Creation</item>
+        <item>Ethics for Financial Services</item>
+        <item>Accounting Systems and Analytics</item>
+        <item>Strategic Business Leader</item>
+        <item>Macroeconomics</item>
+        <item>Financial Markets</item>
+        <item>Applied Corporate Finance</item>
+        <item>Treasury and Risk Management</item>
+        <item>Investments and Portfolio Management</item>
+        <item>Modelling Techniques for Finance</item>
+        <item>Futures, Options and other Derivatives</item>
+        <item>Business and Financial Econometrics</item>
+        <item>Advanced Financial Management</item>
+        <item>Analytical Methods</item>
+        <item>International Finance</item>
+        <item>Advanced Investments</item>
+        <item>Advanced Derivative Securities</item>
+        <item>Advanced Corporate Finance</item>
+        <item>Treasury Dealing</item>
+        <item>Financial Behaviour and Decision Making (Intensive)</item>
+        <item>Ethics for Financial Services (Intensive)</item>
+        <item>Research Methods</item>
+        <item>Accounting in International Contexts</item>
+        <item>The Deakin Advantage: Leadership and Professional Development</item>
+        <item>Strategy and Value Creation</item>
+        <item>Financial Decision Making</item>
+        <item>The Economic Environment</item>
+        <item>Marketing, Positioning and Consumers</item>
+        <item>Business Processes and Technology</item>
+        <item>Leading People in Organisations</item>
+        <item>The Deakin Advantage: Capstone</item>
+        <item>Strategy Formulation</item>
+        <item>Innovation By Design</item>
+        <item>Financing Your Strategy</item>
+        <item>International Business</item>
+        <item>High Performing Organisations</item>
+        <item>Global Capstone</item>
+        <item>Strategy and Value Creation (Residential)</item>
+        <item>Financial Decision Making (Residential)</item>
+        <item>Marketing, Positioning and Consumers (Residential)</item>
+        <item>Leading People in Organisations (Residential)</item>
+        <item>The Economic Environment (Tour)</item>
+        <item>Marketing, Positioning and Consumers (Tour)</item>
+        <item>Business Requirements Analysis</item>
+        <item>Managing Digital Transformation</item>
+        <item>Supply Chain Management and Logistics</item>
+        <item>Human Resource Analytics</item>
+        <item>Enterprise Architecture and Governance</item>
+        <item>Ethics of Digital Transformation</item>
+        <item>Enterprise Information Management and Security</item>
+        <item>Foundation Skills in Data Analysis</item>
+        <item>Foundation Skills in Data Analysis</item>
+        <item>Descriptive Analytics and Visualisation</item>
+        <item>Predictive Analytics</item>
+        <item>Decision Modelling for Business Analytics</item>
+        <item>Design Thinking for Innovation</item>
+        <item>Agile Project Management</item>
+        <item>Decision Analytics in Practice</item>
+        <item>Advanced Artificial Intelligence for Business</item>
+        <item>Business Intelligence and Database</item>
+        <item>Value of Information</item>
+        <item>Marketing Analytics</item>
+        <item>Business Analytics Project</item>
+        <item>Project Management</item>
+        <item>Information Systems in Practice</item>
+        <item>Information Systems in Practice (Study Tour)</item>
+        <item>Principles of Income Tax Law</item>
+        <item>Business Law</item>
+        <item>Business Taxation Law and Policy</item>
+        <item>Sport and the Law</item>
+        <item>Corporate Insolvency Law and Policy</item>
+        <item>Financial Advice Regulation</item>
+        <item>Financial Advice Regulation (Intensive)</item>
+        <item>Legal Method and Statutory Interpretation</item>
+        <item>Contract Law and Policy</item>
+        <item>Criminal Law and Policy</item>
+        <item>Torts and Policy</item>
+        <item>Commercial Law and Policy</item>
+        <item>Law and Policy of Misleading Conduct and Product Liability</item>
+        <item>Criminal Procedure and Policy</item>
+        <item>Civil Procedure, Alternative Dispute Resolution and Policy</item>
+        <item>Constitutional Law and Policy</item>
+        <item>Administrative Law and Policy</item>
+        <item>Property Law and Policy</item>
+        <item>Family Law and Policy</item>
+        <item>Evidence Law and Policy</item>
+        <item>Workplace Law and Policy</item>
+        <item>Corporate Law and Policy</item>
+        <item>Land Law and Policy</item>
+        <item>Trusts and Equitable Remedies</item>
+        <item>Competition Law and Policy</item>
+        <item>Intellectual Property and Policy</item>
+        <item>Legal Practice, Ethics and Policy</item>
+        <item>Advanced Legal Professional Practice</item>
+        <item>International Commercial Law and Policy</item>
+        <item>Taxation Law and Policy</item>
+        <item>Mergers and Acquisitions</item>
+        <item>Employment Law Clinic</item>
+        <item>Family Law Clinic</item>
+        <item>Criminal Law Clinic</item>
+        <item>Contemporary Legal Issues</item>
+        <item>Contemporary International Legal Challenges (Intensive)</item>
+        <item>Migration and Refugee Law and Policy</item>
+        <item>Legal Professional Practice</item>
+        <item>Chinese Commercial Law</item>
+        <item>Foundations of Law</item>
+        <item>Research Methodology</item>
+        <item>Corporate Governance</item>
+        <item>Research Thesis</item>
+        <item>International Intellectual Property Law</item>
+        <item>Health Law</item>
+        <item>Alternative Dispute Resolution: Principles and Practice</item>
+        <item>Financial Services Regulation</item>
+        <item>Venture Law Clinic</item>
+        <item>Human Rights Law and Policy</item>
+        <item>Introduction to Commercial Law</item>
+        <item>International Competition Law and Policy</item>
+        <item>Superannuation Law and Policy</item>
+        <item>Civil and Commercial Law Clinic</item>
+        <item>Corporations Law</item>
+        <item>Accounting and Legal Research Methods</item>
+        <item>Data Law, Policy and Cybercrime</item>
+        <item>Law and the Internet</item>
+        <item>Public International Law</item>
+        <item>Electronic Crime</item>
+        <item>International Financial Crime</item>
+        <item>Marketing Law</item>
+        <item>Anti-Money Laundering and Counter-Terrorism Financing</item>
+        <item>Chinese Commercial Law</item>
+        <item>Indian Law</item>
+        <item>Human Resource Strategy</item>
+        <item>Strategic Staffing</item>
+        <item>Developing People and Organisations</item>
+        <item>Performance Management and Reward</item>
+        <item>Organisational Development and Change</item>
+        <item>Employment Relations for Organisational Effectiveness</item>
+        <item>Rights and Responsibilities in Human Resource Management</item>
+        <item>Ethics for Managers</item>
+        <item>Human Resource Management in the Global Context</item>
+        <item>Online Marketing</item>
+        <item>Integrated Marketing Communication</item>
+        <item>Strategic Brand Management</item>
+        <item>Services Marketing</item>
+        <item>Arts Marketing</item>
+        <item>Creative Industries</item>
+        <item>Critiquing Entrepreneurship</item>
+        <item>Exploring Socio-Economic Innovation</item>
+        <item>Strategic Change and Innovation</item>
+        <item>Creating Entrepreneurial Impact</item>
+        <item>Arts Management</item>
+        <item>Managing Cultural Projects and Events</item>
+        <item>Managing Arts in Community Settings</item>
+        <item>Arts Fundraising and Sponsorship</item>
+        <item>Rating and Statutory Valuation</item>
+        <item>Property and Real Estate Context</item>
+        <item>Property and Real Estate Law and Practice</item>
+        <item>Management of Real Estate</item>
+        <item>Property Development</item>
+        <item>Property and Real Estate Valuation</item>
+        <item>Investment Valuation</item>
+        <item>Athlete Management</item>
+        <item>Fan and Participant Engagement</item>
+        <item>Sport Leadership and Governance</item>
+        <item>Sport Ethics and Integrity</item>
+        <item>Introduction to the Sport Industry</item>
+        <item>Sport Marketing</item>
+        <item>Sport Policy and Development</item>
+        <item>Sport Organisation Behaviour</item>
+        <item>Sport Promotions and Public Relations</item>
+        <item>Sport Organisation Theory</item>
+        <item>Strategic Management</item>
+        <item>Sport Broadcasting</item>
+        <item>Facility and Event Management</item>
+        <item>Accounting</item>
+        <item>Financial Interpretation</item>
+        <item>International Banking and Finance</item>
+        <item>Global Trade and Markets</item>
+        <item>Economics for Managers</item>
+        <item>Finance</item>
+        <item>Research Design and Analysis</item>
+        <item>Sustainable Environmental Marketing</item>
+        <item>Consumer Behaviour</item>
+        <item>Marketing Management</item>
+        <item>Applied Strategic Marketing</item>
+        <item>International Marketing</item>
+        <item>Leadership Practice with Impact</item>
+        <item>Leadership Challenges</item>
+        <item>Business Process Management</item>
+        <item>Business Process Management</item>
+        <item>Business Strategy and Analysis</item>
+        <item>Retailing</item>
+        <item>Managing Innovation</item>
+        <item>Management and Organisational Consulting</item>
+        <item>Merchandise Management</item>
+        <item>Human Resource Management</item>
+        <item>Business Communication for Managers</item>
+        <item>Critical Thinking for Managers</item>
+        <item>International Business Management</item>
+        <item>Building Success in Commerce</item>
+        <item>Contemporary Issues in Leadership</item>
+        <item>Operations Management</item>
+        <item>Research Project 1A</item>
+        <item>Research Project 1B</item>
+        <item>Leadership Research Project</item>
+        <item>Research Project 4</item>
+        <item>Entrepreneurship (Residential)</item>
+        <item>Leadership in the Real World</item>
+        <item>Managing Innovation (Tour)</item>
+        <item>Marketing Management (Tour)</item>
+        <item>International Business Management (Tour)</item>
+        <item>International Marketing</item>
+        <item>Economics for Managers (Study Tour)</item>
+        <item>Cultural Experience</item>
+        <item>Industry Based Learning</item>
+        <item>Consultancy Experience</item>
+        <item>Entrepreneurship Experience</item>
+        <item>Internship</item>
+        <item>Managing and Developing Innovation</item>
+        <item>Engineering Project Management</item>
+        <item>Engineering Leadership</item>
+        <item>Engineering Entrepreneurship</item>
+        <item>Safety Induction Program</item>
+        <item>Control Systems Engineering</item>
+        <item>Energy Efficiency and Demand Management</item>
+        <item>Energy Market and Policy</item>
+        <item>Instrumentation and Process Control</item>
+        <item>Sensor Networks</item>
+        <item>Embedded Systems</item>
+        <item>Electrical Systems Protection</item>
+        <item>Smart Grid Systems</item>
+        <item>Renewable Energy Systems</item>
+        <item>Microgrid Design and Management</item>
+        <item>Internship - Engineering</item>
+        <item>Product Development Technologies</item>
+        <item>CAE and Finite Element Analysis</item>
+        <item>Product Development</item>
+        <item>Advanced Manufacturing Technology</item>
+        <item>Additive Manufacturing Processes and Applications</item>
+        <item>Design for Additive Manufacturing</item>
+        <item>Materials for Additive Manufacturing</item>
+        <item>Research Methodology</item>
+        <item>Engineering Project Initiation</item>
+        <item>Project Initiation</item>
+        <item>Project Implementation and Evaluation</item>
+        <item>Managing Engineering Projects</item>
+        <item>Urban Stormwater Management</item>
+        <item>Advanced Geomechanics</item>
+        <item>Transportation Infrastructure Systems</item>
+        <item>Railway Infrastructure Design and Management</item>
+        <item>Engineering Management Case Study</item>
+        <item>Engineering Management Project</item>
+        <item>Advanced Structural Design</item>
+        <item>Introduction to Engineering Professional Practice</item>
+        <item>Mastery of Engineering</item>
+        <item>Engineering Sustainability</item>
+        <item>Enterprise Network Construction</item>
+        <item>Enterprise Network Management</item>
+        <item>Advanced Digital Forensics</item>
+        <item>Advanced Topics in Digital Security</item>
+        <item>Cloud Computing Technologies</item>
+        <item>Software Quality and Testing</item>
+        <item>Mobile Systems Development</item>
+        <item>Internship - Information Technology</item>
+        <item>Enterprise Systems and Management</item>
+        <item>Computer Networks and Security</item>
+        <item>Enterprise Business Intelligence</item>
+        <item>Real World Analytics</item>
+        <item>Security and Privacy Issues in Analytics</item>
+        <item>Machine Learning</item>
+        <item>Software Deployment and Operation</item>
+        <item>Research Project A</item>
+        <item>Research Project B (Thesis)</item>
+        <item>Software Engineering</item>
+        <item>Enterprise, Entrepreneurship and Innovation</item>
+        <item>Communications Network Security</item>
+        <item>Cloud Applications Design and Development</item>
+        <item>Research and Development in Information Technology</item>
+        <item>Statistical Data Analysis</item>
+        <item>Modern Data Science</item>
+        <item>Bayesian Learning and Graphical Models</item>
+        <item>Deep Learning</item>
+        <item>Mastery of Information Technology</item>
+        <item>Introduction to IT Professional Practice</item>
+        <item>Interaction and Design for Virtual Reality and Augmented Reality</item>
+        <item>Development for Virtual Reality</item>
+        <item>Content Creation for Virtual Reality</item>
+        <item>Virtual Reality On Mobile Platforms</item>
+        <item>Virtual Reality Professional Practice</item>
+        <item>Cyber Security Management</item>
+        <item>Team Project (A) - Project Management and Practices</item>
+        <item>Object-Oriented Development</item>
+        <item>Database and Information Retrieval</item>
+        <item>Software Requirements Analysis and Modelling</item>
+        <item>Web Technologies and Development</item>
+        <item>Enterprise Applications Development</item>
+        <item>Team Project (B) - Execution and Delivery</item>
+        <item>Mathematics for Artificial Intelligence</item>
+        <item>Engineering AI Solutions</item>
+        <item>Applications of Computer Vision and Speech Processing</item>
+        <item>Major Thesis</item>
+        <item>Professional Practice</item>
+        <item>Minor Thesis</item>
+        <item>Services Management</item>
+        <item>Reinforcement Learning</item>
+        <item>Human Aligned Artificial Intelligence</item>
+        <item>Agricultural Biotechnology and Bioinformatics</item>
+        <item>Nanobiotechnology</item>
+        <item>Bioinformatics and Molecular Biology Techniques</item>
+        <item>Industrial and Analytical Techniques in Biotechnology</item>
+        <item>Risk Assessment and Control</item>
+        <item>Policy and Planning for Sustainable Development</item>
+        <item>Environmental Management Systems</item>
+        <item>Climate Change Adaptation and Mitigation</item>
+        <item>Regional Development Economics and Planning</item>
+        <item>Systems and Strategic Thinking</item>
+        <item>Regional Development Modelling</item>
+        <item>Research Planning and Communication</item>
+        <item>Research Impact and Management</item>
+        <item>Research Frontiers Project</item>
+        <item>Research Thesis 1</item>
+        <item>Research Thesis 2</item>
+        <item>Industry Practice</item>
+        <item>Safety Induction Program</item>
+        <item>Urban Perspectives</item>
+        <item>Critical Futures</item>
+        <item>Urban Patterns and Precedents</item>
+        <item>Architectural Design Research Studio</item>
+        <item>Architectural Design Master Studio B</item>
+        <item>Geo-Planning and Design</item>
+        <item>Designing Urban Environments</item>
+        <item>Interdisciplinary Planning and Design</item>
+        <item>Architectural Design Master Studio A</item>
+        <item>Urban Design Studio</item>
+        <item>Architectural Design and Resolution</item>
+        <item>Architecture Masterclass Studio</item>
+        <item>Landscape Design Masterclass</item>
+        <item>Landscape Narrating and Meaning</item>
+        <item>Plants, Design and Ecologies</item>
+        <item>Indigenous Narratives and Processes</item>
+        <item>Built Environment Professional Practice</item>
+        <item>Principles of Building Information Modelling</item>
+        <item>Advanced Project Management</item>
+        <item>Built Environment Practical Assessment</item>
+        <item>Introduction to Construction Management</item>
+        <item>Construction Management Practice</item>
+        <item>Managing Change and Innovation</item>
+        <item>Contemporary Planning and Design Challenges</item>
+        <item>Ecological Cities and Futures</item>
+        <item>Planning Processes and Practice</item>
+        <item>Smart Cities and Infrastructure</item>
+        <item>Construction Company Management</item>
+        <item>Cost Planning and Economics</item>
+        <item>Legal Risk Management</item>
+        <item>Building Project Evaluation</item>
+        <item>Construction Measurement and Estimating</item>
+        <item>Strategic Construction Procurement</item>
+        <item>Thesis</item>
+        <item>Construction Research Frontiers</item>
+        <item>Construction Research Project</item>
+        <item>Built Environment Research Project</item>
+        <item>Built Environment Study Tour</item>
+        <item>Research Methodology</item>
+        <item>Sustainable Construction Studies</item>
+        <item>Sustainable Futures</item>
+        <item>Building Systems and Environment</item>
+        <item>Built Environment Integrated Project</item>
+        <item>Academic Writing and Communication</item>
+        <item>Career Tools for Employability</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_youtube">YoutubeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

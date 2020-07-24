@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="#E6E6E6"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="-16dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:foreground="?attr/selectableItemBackground"
+            android:background="#ffffff">
+
+            <TextView
+                android:id="@+id/textView_this_number"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="7dp"
+                android:paddingLeft="10dp"
+                android:text="#1"
+                android:textColor="#7C7C7C"
+                android:textSize="13sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView_this_content"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginEnd="4dp"
+                android:layout_marginRight="4dp"
+                android:autoLink="all"
+                android:linksClickable="false"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="content...."
+                android:textColor="#000000"
+                android:textColorLink="#3393FF"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView_this_date" />
+
+            <TextView
+                android:id="@+id/textView_this_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="7dp"
+                android:text="10/10/2020 12:00"
+                android:textColor="#7C7C7C"
+                android:textSize="13sp"
+                app:layout_constraintStart_toEndOf="@+id/textView_this_author"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView_this_author"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="1dp"
+                android:layout_marginLeft="1dp"
+                android:layout_marginTop="7dp"
+                android:text="Foo bar"
+                android:textColor="#7C7C7C"
+                android:textSize="13sp"
+                app:layout_constraintStart_toEndOf="@+id/textView_this_number"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TableRow
+                android:layout_width="0dp"
+                android:layout_height="3dp"
+                android:layout_marginTop="15dp"
+                android:background="#E6E6E6"
+                app:layout_constraintEnd_toEndOf="@+id/textView_this_content"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/textView_this_content"
+                app:layout_constraintTop_toBottomOf="@+id/textView_this_content" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

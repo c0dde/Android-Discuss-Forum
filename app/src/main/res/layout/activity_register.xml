@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+
+    >
+
+    <Button
+        android:id="@+id/button_Register"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:background="@drawable/my_button_background"
+        android:fontFamily="@font/pt_sans"
+        android:text="@string/register_button"
+        android:textAllCaps="true"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.core.widget.NestedScrollView
+        layout_height="match_parent"
+        layout_width="match_parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:context=".RegisterActivity">
+
+            <TableRow
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="2dp"
+                android:background="#CCCCCC"
+                app:layout_constraintEnd_toEndOf="@+id/editText_password1"
+                app:layout_constraintStart_toStartOf="@+id/textView10"
+                app:layout_constraintTop_toBottomOf="@+id/editText_password1" />
+
+            <TableRow
+                android:id="@+id/tableRow13"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="2dp"
+                android:background="#CCCCCC"
+                app:layout_constraintEnd_toEndOf="@+id/editText_password2"
+                app:layout_constraintStart_toStartOf="@+id/textView8"
+                app:layout_constraintTop_toBottomOf="@+id/editText_password2" />
+
+            <TableRow
+                android:layout_width="280dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="2dp"
+                android:background="#CCCCCC"
+                app:layout_constraintEnd_toEndOf="@+id/autoCompleteTextView_enrolled4"
+                app:layout_constraintStart_toStartOf="@+id/textView9"
+                app:layout_constraintTop_toBottomOf="@+id/autoCompleteTextView_enrolled4" />
+
+            <TableRow
+                android:id="@+id/tableRow12"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="2dp"
+                android:background="#CCCCCC"
+                app:layout_constraintEnd_toEndOf="@+id/autoCompleteTextView_enrolled3"
+                app:layout_constraintStart_toStartOf="@+id/textView7"
+                app:layout_constraintTop_toBottomOf="@+id/autoCompleteTextView_enrolled3" />
+
+            <TableRow
+                android:layout_width="280dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="2dp"
+                android:background="#CCCCCC"
+                app:layout_constraintEnd_toEndOf="@+id/autoCompleteTextView_enrolled2"
+                app:layout_constraintStart_toStartOf="@+id/textView6"
+                app:layout_constraintTop_toBottomOf="@+id/autoCompleteTextView_enrolled2" />
+
+            <TableRow
+                android:id="@+id/tableRow11"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="2dp"
+                android:background="#CCCCCC"
+                app:layout_constraintEnd_toEndOf="@+id/autoCompleteTextView_enrolled1"
+                app:layout_constraintStart_toStartOf="@+id/textView4"
+                app:layout_constraintTop_toBottomOf="@+id/autoCompleteTextView_enrolled1" />
+
+            <TableRow
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="2dp"
+                android:background="#CCCCCC"
+                app:layout_constraintEnd_toEndOf="@+id/editText_userEmail"
+                app:layout_constraintStart_toStartOf="@+id/textView3"
+                app:layout_constraintTop_toBottomOf="@+id/editText_userEmail" />
+
+            <TableRow
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="2dp"
+                android:background="#CCCCCC"
+                app:layout_constraintEnd_toEndOf="@+id/editText_username"
+                app:layout_constraintStart_toStartOf="@+id/textView5"
+                app:layout_constraintTop_toBottomOf="@+id/editText_username" />
+
+            <EditText
+                android:id="@+id/editText_username"
+                android:layout_width="200dp"
+                android:layout_height="55dp"
+                android:background="@null"
+                android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ .-"
+                android:ems="10"
+                android:focusable="auto"
+                android:fontFamily="@font/pt_sans"
+                android:inputType="textPersonName"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/textView5"
+                app:layout_constraintTop_toTopOf="@+id/textView5" />
+
+            <AutoCompleteTextView
+                android:id="@+id/autoCompleteTextView_enrolled1"
+                android:layout_width="200dp"
+                android:layout_height="55dp"
+                android:background="@null"
+                android:drawablePadding="5dip"
+                android:fontFamily="@font/pt_sans"
+                android:hint="e.g. SIT305"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/textView4"
+                app:layout_constraintTop_toTopOf="@+id/textView4" />
+
+            <AutoCompleteTextView
+                android:id="@+id/autoCompleteTextView_enrolled2"
+                android:layout_width="200dp"
+                android:layout_height="55dp"
+                android:background="@null"
+                android:drawablePadding="5dip"
+                android:fontFamily="@font/pt_sans"
+                android:hint="e.g. SIT305"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/textView6"
+                app:layout_constraintTop_toTopOf="@+id/textView6" />
+
+            <AutoCompleteTextView
+                android:id="@+id/autoCompleteTextView_enrolled3"
+                android:layout_width="200dp"
+                android:layout_height="55dp"
+                android:background="@null"
+                android:drawablePadding="5dip"
+                android:fontFamily="@font/pt_sans"
+                android:hint="e.g. SIT305"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/textView7"
+                app:layout_constraintTop_toTopOf="@+id/textView7" />
+
+            <AutoCompleteTextView
+                android:id="@+id/autoCompleteTextView_enrolled4"
+                android:layout_width="200dp"
+                android:layout_height="55dp"
+                android:background="@null"
+                android:drawablePadding="5dip"
+                android:fontFamily="@font/pt_sans"
+                android:hint="e.g. SIT305"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/textView9"
+                app:layout_constraintTop_toTopOf="@+id/textView9" />
+
+            <EditText
+                android:id="@+id/editText_password1"
+                android:layout_width="200dp"
+                android:layout_height="55dp"
+                android:background="@null"
+                android:drawablePadding="5dip"
+                android:ems="10"
+                android:focusable="auto"
+                android:fontFamily="@font/pt_sans"
+                android:hint="Set up your password"
+                android:inputType="textPassword"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/textView10"
+                app:layout_constraintTop_toTopOf="@+id/textView10" />
+
+            <EditText
+                android:id="@+id/editText_password2"
+                android:layout_width="200dp"
+                android:layout_height="55dp"
+                android:background="@null"
+                android:drawablePadding="5dip"
+                android:ems="10"
+                android:focusable="auto"
+                android:fontFamily="@font/pt_sans"
+                android:hint="Repeat the password"
+                android:inputType="textPassword"
+                android:textColorHighlight="#FFFFFF"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/textView8"
+                app:layout_constraintTop_toTopOf="@+id/textView8" />
+
+            <EditText
+                android:id="@+id/editText_userEmail"
+                android:layout_width="200dp"
+                android:layout_height="55dp"
+                android:background="@null"
+                android:drawablePadding="5dip"
+                android:ems="10"
+                android:focusable="auto"
+                android:fontFamily="@font/pt_sans"
+                android:inputType="textPersonName"
+                android:textSize="14sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/textView3"
+                app:layout_constraintTop_toTopOf="@+id/textView3" />
+
+            <ProgressBar
+                android:id="@+id/progressBar2"
+                style="?android:attr/progressBarStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="80dp"
+                android:visibility="invisible"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/editText_password2" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="80dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/pt_sans"
+                android:gravity="left|center_vertical"
+                android:text="E-Mail"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/textView4"
+                app:layout_constraintEnd_toStartOf="@+id/editText_userEmail"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintHorizontal_chainStyle="packed"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="80dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/pt_sans"
+                android:gravity="left|center_vertical"
+                android:text="Password"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/tableRow13"
+                app:layout_constraintEnd_toStartOf="@+id/editText_password2"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintHorizontal_chainStyle="packed"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView10" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="80dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/pt_sans"
+                android:gravity="left|center_vertical"
+                android:text="Password"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/textView8"
+                app:layout_constraintEnd_toStartOf="@+id/editText_password1"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintHorizontal_chainStyle="packed"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="80dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/pt_sans"
+                android:gravity="left|center_vertical"
+                android:text="Enrolled in"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/textView10"
+                app:layout_constraintEnd_toStartOf="@+id/autoCompleteTextView_enrolled4"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintHorizontal_chainStyle="packed"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="80dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/pt_sans"
+                android:gravity="left|center_vertical"
+                android:text="Enrolled in"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/textView9"
+                app:layout_constraintEnd_toStartOf="@+id/autoCompleteTextView_enrolled3"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintHorizontal_chainStyle="packed"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="80dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/pt_sans"
+                android:gravity="left|center_vertical"
+                android:text="Enrolled in"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/textView7"
+                app:layout_constraintEnd_toStartOf="@+id/autoCompleteTextView_enrolled2"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintHorizontal_chainStyle="packed"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="80dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/pt_sans"
+                android:gravity="left|center_vertical"
+                android:text="Enrolled in"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/textView6"
+                app:layout_constraintEnd_toStartOf="@+id/autoCompleteTextView_enrolled1"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintHorizontal_chainStyle="packed"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="80dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/pt_sans"
+                android:gravity="left|center_vertical"
+                android:text="Full Name"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/textView3"
+                app:layout_constraintEnd_toStartOf="@+id/editText_username"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintHorizontal_chainStyle="packed"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_chainStyle="spread" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

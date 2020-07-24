@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338942401981",
+    "firebase_url": "https://sit305-project-64f62.firebaseio.com",
+    "project_id": "sit305-project-64f62",
+    "storage_bucket": "sit305-project-64f62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338942401981:android:fbdbbecf41d4f9699446d4",
+        "android_client_info": {
+          "package_name": "com.yswong.discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338942401981-765kqr3vq6ed1a2ob6ap1606ou2n2u6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yswong.discussion",
+            "certificate_hash": "350a7197aa30205ab7391aa75cc67c6e48b0cd5f"
+          }
+        },
+        {
+          "client_id": "338942401981-qjan6ipqmgfm5une4sjercdell9db17b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMSWhM8-QrSr1e7bsAe_XKkTLjdhkbMLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338942401981-qjan6ipqmgfm5une4sjercdell9db17b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
